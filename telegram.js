@@ -125,7 +125,7 @@ export async function sendVocabulary(chatId, entry, vocabulary) {
   await sendList(chatId, vocabulary);
 }
 
-const HELP = "Send an English word or /word example to look it up.\n/list — all saved words\n/export — download vocabulary.json\n/id — your private chat ID\n/help — these instructions";
+const HELP = "Send an English word or phrase (for example, look out at) to look it up.\n/list — all saved terms\n/export — download vocabulary.json\n/id — your private chat ID\n/help — these instructions";
 
 export async function handleMessage(message, { lookupWord, loadVocabulary }) {
   if (message.chat?.type !== "private" || !message.text) return;
@@ -163,8 +163,9 @@ export async function handleMessage(message, { lookupWord, loadVocabulary }) {
     let result;
     try {
       result = await lookupWord(word, { refresh: command === "/refresh" });
-    } catch {
-      await sendText(chatId, "Lookup failed. Send one English word. If it still fails, check the AvalAI settings and local vocabulary.json, then try again.");
+    } catch (error) {
+      console.error("Lookup failed:", error instanceof Error ? error.message : String(error));
+      await sendText(chatId, "Lookup failed. Send an English word or short phrase; check the bot console for details.");
       return;
     }
     // Persistence finishes before delivery; sending an existing word uses local data.
@@ -203,9 +204,9 @@ export async function runBot(services) {
           offset = update.update_id + 1;
           await writeFile(OFFSET_FILE, String(offset), "utf8");
         }
-      } catch {
+      } catch (error) {
         if (controller.signal.aborted) break;
-        console.error("Telegram processing failed; retrying in 5 seconds. Check connectivity, bot token, and ensure only one bot instance is running.");
+        console.error(`Telegram processing failed: ${error instanceof Error ? error.message : String(error)}. Retrying in 5 seconds.`);
         await delay(5000, undefined, { signal: controller.signal }).catch(() => {});
       }
     }

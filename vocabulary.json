@@ -1,23 +1,5 @@
 [
   {
-    "word": "vanacies",
-    "pos": "noun",
-    "englishDefinition": "The state or quality of being empty or unoccupied; vacuity.",
-    "persianMeaning": "خالی بودن",
-    "examples": [
-      "The vanacies of the abandoned building were unsettling.",
-      "He was struck by the vanacies in her eyes after hearing the news.",
-      "The vanacies in the market during the holiday reduced the festive atmosphere."
-    ],
-    "root": "This word appears to be derived from the Latin 'vacuus', meaning 'empty', combined with the suffix '-cy' indicating a state or condition. However, its use is very rare and not widely recognized in modern English. The exact lineage and evolution are uncertain.",
-    "wordFamily": [
-      "vacant",
-      "vacate",
-      "vacuity",
-      "vacation"
-    ]
-  },
-  {
     "word": "fairly",
     "pos": "adverb",
     "englishDefinition": "To a moderate degree; fairly good or satisfactory, but not excellent.",
@@ -58,6 +40,159 @@
     "pronunciation": {
       "us": "/ˈveɪ.kən.si/",
       "uk": "/ˈveɪ.kən.si/"
+    }
+  },
+  {
+    "word": "rail",
+    "pos": "noun",
+    "englishDefinition": "A bar or series of bars placed horizontally for use in construction, alongside or at the top of a fence, or as support for something.",
+    "persianMeaning": "ریل",
+    "examples": [
+      "The train traveled smoothly along the steel rail.",
+      "He leaned against the railing while waiting for the bus.",
+      "The construction team installed the railings around the balcony."
+    ],
+    "root": "Middle English reyl, from Old French rail, from Latin regula meaning \"straight stick, ruler\".",
+    "wordFamily": [
+      "railed",
+      "railing"
+    ],
+    "pronunciation": {
+      "us": "/reɪl/",
+      "uk": "/reɪl/"
+    }
+  },
+  {
+    "word": "fascinating",
+    "pos": "adjective",
+    "englishDefinition": "extremely interesting or charming.",
+    "persianMeaning": "بسیار جالب",
+    "examples": [
+      "The documentary about marine life was absolutely fascinating.",
+      "She has a fascinating story about her travels around the world.",
+      "The exhibition featured fascinating artifacts from ancient civilizations."
+    ],
+    "root": "The word 'fascinating' comes from the Latin 'fascinatus', the past participle of 'fascinare', which means 'to enchant, bewitch'.",
+    "wordFamily": [
+      "fascinate",
+      "fascination"
+    ],
+    "pronunciation": {
+      "us": "/ˈfæs.ɪ.neɪ.tɪŋ/",
+      "uk": "/ˈfæs.ɪ.neɪ.tɪŋ/"
+    }
+  },
+  {
+    "word": "ferry",
+    "pos": "noun",
+    "englishDefinition": "A boat or ship that carries people, vehicles, or goods across a body of water.",
+    "persianMeaning": "عبوردهنده",
+    "examples": [
+      "We took the ferry across the river to reach the island.",
+      "The ferry runs every hour from the mainland to the city.",
+      "She prefers to travel by ferry rather than by plane."
+    ],
+    "root": "Middle English 'feri', from Old French 'ferre', from Latin 'ferre' meaning 'to carry'.",
+    "wordFamily": [
+      "ferryman",
+      "ferries",
+      "ferried"
+    ],
+    "pronunciation": {
+      "us": "/ˈfɛri/",
+      "uk": "/ˈfɛri/"
+    }
+  },
+  {
+    "word": "incidentally",
+    "pos": "adverb",
+    "englishDefinition": "As a side note; by the way; in addition to the main point.",
+    "persianMeaning": "به طور تصادفی",
+    "examples": [
+      "Incidentally, I heard that she got a promotion at work.",
+      "He mentioned, incidentally, that he will be traveling next week.",
+      "Incidentally, the party starts at 7 PM."
+    ],
+    "root": "Derived from the Latin 'incidentalis', meaning 'occurring or likely to occur casually or by chance'.",
+    "wordFamily": [
+      "incident",
+      "incidental"
+    ],
+    "pronunciation": {
+      "us": "/ˌɪn.sɪˈdɛn.t̬əl.i/",
+      "uk": "/ˌɪn.sɪˈdɛnt.əl.i/"
+    }
+  },
+  {
+    "word": "supplement",
+    "pos": "noun",
+    "englishDefinition": "Something that is added to something else in order to complete or enhance it.",
+    "persianMeaning": "مکمل",
+    "examples": [
+      "She takes a vitamin supplement every day to improve her health.",
+      "The book includes a supplement with additional information.",
+      "They offered a financial supplement to help with living expenses."
+    ],
+    "root": "Derived from the Latin 'supplementum', which means 'something added', from 'supplere' meaning 'to fill up'.",
+    "wordFamily": [
+      "supplementary",
+      "supplemental",
+      "supplemented"
+    ],
+    "pronunciation": {
+      "us": "/ˈsʌpləmənt/",
+      "uk": "/ˈsʌplɪmənt/"
+    }
+  },
+  {
+    "word": "look out",
+    "pos": "phrasal verb",
+    "englishDefinition": "To be vigilant or cautious; to stay alert for danger or something that may happen.",
+    "persianMeaning": "مواظب باش",
+    "examples": [
+      "Look out! There's a car coming.",
+      "You need to look out for the icy patches on the sidewalk.",
+      "If you look out for each other, you'll stay safe."
+    ],
+    "root": "The phrase 'look out' combines the verb 'look' (of Old English origin) and the preposition 'out,' suggesting an outward gaze or observation.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/lʊk aʊt/",
+      "uk": "/lʊk aʊt/"
+    }
+  },
+  {
+    "word": "look out at",
+    "pos": "phrasal verb",
+    "englishDefinition": "To gaze or gaze outward towards something; to observe or focus attention on something outside.",
+    "persianMeaning": "به بیرون نگاه کردن به",
+    "examples": [
+      "She likes to look out at the ocean from her balcony.",
+      "He often looks out at the city skyline from his office.",
+      "When you look out at the mountains, you can see the beauty of nature."
+    ],
+    "root": "The origin of the phrase stems from the combination of the verb \"look\" (Old English \"locian\") and the preposition \"out\" (Old English \"ūtan\"), indicating direction or focus towards the outside.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/lʊk aʊt æt/",
+      "uk": "/lʊk aʊt æt/"
+    }
+  },
+  {
+    "word": "in time",
+    "pos": "idiom",
+    "englishDefinition": "Before a deadline or the expected time; early enough to avoid problems or achieve a desired outcome.",
+    "persianMeaning": "به موقع",
+    "examples": [
+      "She arrived in time for the meeting.",
+      "Make sure to submit your project in time to avoid penalties.",
+      "He finished the race in time to celebrate with his friends."
+    ],
+    "root": "The phrase 'in time' originates from the Old English 'tima', meaning a period or season. The component 'in' suggests a sense of being within a specified period or limit.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ɪn taɪm/",
+      "uk": "/ɪn taɪm/"
     }
   }
 ]

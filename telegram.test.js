@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { handleMessage, splitText, formatList, linkedList } from "./telegram.js";
-import { lookupWord, loadVocabulary, validateEntry, fetchWordDetails } from "./index.js";
+import { lookupWord, loadVocabulary, validateEntry, fetchWordDetails, normalizeWord, isEnglishTerm, findWord } from "./index.js";
 import { formatWord } from "./telegram.js";
 
 test("pronunciations are required from AI and supported in legacy storage", async () => {
@@ -119,4 +119,25 @@ test("existing words are returned without a network request", async () => {
   } finally {
     globalThis.fetch = originalFetch;
   }
+});
+
+test("phrases normalize, validate, and match saved entries", () => {
+  assert.equal(normalizeWord("  LOOK   OUT\tAT  "), "look out at");
+  assert.equal(isEnglishTerm(normalizeWord("look out at")), true);
+  assert.equal(isEnglishTerm(normalizeWord("in time")), true);
+  assert.equal(isEnglishTerm(normalizeWord("don't give up")), true);
+  assert.equal(isEnglishTerm(normalizeWord("look out at!")), false);
+  assert.equal(findWord([{ word: "look out at" }], " LOOK   OUT AT ").word, "look out at");
+});
+
+test("AvalAI result accepts a multiword term", async () => {
+  const phrase = { word: "look out at", pos: "phrasal verb",
+    englishDefinition: "To look outward toward something.",
+    persianMeaning: "به بیرون نگاه کردن", examples: ["Look out at the sea.", "They looked out at the hills."],
+    root: "From look, out, and at.", wordFamily: ["lookout"],
+    pronunciation: { us: "/lʊk aʊt æt/", uk: "/lʊk aʊt æt/" } };
+  const client = { chat: { completions: { create: async () => ({
+    choices: [{ finish_reason: "stop", message: { content: JSON.stringify(phrase) } }],
+  }) } } };
+  assert.deepEqual(await fetchWordDetails(client, "look out at"), phrase);
 });
