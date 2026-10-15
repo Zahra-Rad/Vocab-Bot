@@ -1,0 +1,63 @@
+[
+  {
+    "word": "vanacies",
+    "pos": "noun",
+    "englishDefinition": "The state or quality of being empty or unoccupied; vacuity.",
+    "persianMeaning": "خالی بودن",
+    "examples": [
+      "The vanacies of the abandoned building were unsettling.",
+      "He was struck by the vanacies in her eyes after hearing the news.",
+      "The vanacies in the market during the holiday reduced the festive atmosphere."
+    ],
+    "root": "This word appears to be derived from the Latin 'vacuus', meaning 'empty', combined with the suffix '-cy' indicating a state or condition. However, its use is very rare and not widely recognized in modern English. The exact lineage and evolution are uncertain.",
+    "wordFamily": [
+      "vacant",
+      "vacate",
+      "vacuity",
+      "vacation"
+    ]
+  },
+  {
+    "word": "fairly",
+    "pos": "adverb",
+    "englishDefinition": "To a moderate degree; fairly good or satisfactory, but not excellent.",
+    "persianMeaning": "به طور نسبتاً",
+    "examples": [
+      "She was fairly certain that she had locked the door.",
+      "The movie was fairly entertaining, but it could have been better.",
+      "He did fairly well on the exam, considering he hadn’t studied much."
+    ],
+    "root": "Derived from the adjective 'fair', which originates from the Old English 'fæger', meaning beautiful or pleasing. The adverb form began to appear in the early 14th century.",
+    "wordFamily": [
+      "fair",
+      "fairness",
+      "fairer",
+      "fairest"
+    ],
+    "pronunciation": {
+      "us": "/ˈfɛrli/",
+      "uk": "/ˈfɛəli/"
+    }
+  },
+  {
+    "word": "vacancy",
+    "pos": "noun",
+    "englishDefinition": "the state of being vacant or unoccupied; an available position or job.",
+    "persianMeaning": "خالی",
+    "examples": [
+      "The hotel had a vacancy for the weekend, so we decided to book a room.",
+      "She applied for the vacancy posted on the company's website.",
+      "There is a vacancy in the student council that needs to be filled."
+    ],
+    "root": "from Middle French 'vacance', from Latin 'vacare' meaning 'to be empty' or 'to be free', combined with the suffix '-cy' indicating a state or condition.",
+    "wordFamily": [
+      "vacant",
+      "vacate",
+      "vacating"
+    ],
+    "pronunciation": {
+      "us": "/ˈveɪ.kən.si/",
+      "uk": "/ˈveɪ.kən.si/"
+    }
+  }
+]
