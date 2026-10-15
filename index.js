@@ -269,6 +269,7 @@ export async function main() {
   const terminal = createInterface({ input: stdin, output: stdout });
   let word;
 
+  
   try {
     word = normalizeWord(
       await terminal.question("Enter an English word: "),
