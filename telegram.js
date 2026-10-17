@@ -85,7 +85,7 @@ export function wordCard(entry) {
   return { text, entities };
 }
 
-async function sendWord(chatId, entry) {
+export async function sendWord(chatId, entry) {
   const { text, entities } = wordCard(entry);
   await sendText(chatId, text, entities);
 }
@@ -118,11 +118,6 @@ export async function sendList(chatId, vocabulary) {
   if (!bot.username) throw new Error("Telegram bot username is missing.");
   const { text, entities } = linkedList(vocabulary, bot.username);
   await sendText(chatId, text, entities);
-}
-
-export async function sendVocabulary(chatId, entry, vocabulary) {
-  await sendWord(chatId, entry);
-  await sendList(chatId, vocabulary);
 }
 
 const HELP = "Send an English word or phrase (for example, look out at) to look it up.\n/list — all saved terms\n/export — download vocabulary.json\n/id — your private chat ID\n/help — these instructions";
@@ -169,7 +164,7 @@ export async function handleMessage(message, { lookupWord, loadVocabulary }) {
       return;
     }
     // Persistence finishes before delivery; sending an existing word uses local data.
-    await sendVocabulary(chatId, result.entry, await loadVocabulary());
+    await sendWord(chatId, result.entry);
   }
 }
 

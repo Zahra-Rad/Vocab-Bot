@@ -46,7 +46,7 @@ test("unauthorized chats and groups cannot look up words or read the list", asyn
   }
 });
 
-test("authorized word lookup sends details and updated list", async () => {
+test("word lookup sends details only, and /list sends the vocabulary", async () => {
   const originalFetch = globalThis.fetch;
   const previousId = process.env.TELEGRAM_CHAT_ID;
   const previousToken = process.env.TELEGRAM_BOT_TOKEN;
@@ -72,13 +72,9 @@ test("authorized word lookup sends details and updated list", async () => {
       },
       loadVocabulary: async () => [entry],
     });
-    assert.equal(sent.length, 2);
+    assert.equal(sent.length, 1);
     assert.ok(sent.every((body) => body.chat_id === "123"));
     assert.match(sent[0].text, /An examination/);
-    assert.equal(sent[1].text, formatList([entry]));
-    const entity = sent[1].entities[0];
-    assert.equal(sent[1].text.slice(entity.offset, entity.offset + entity.length), "test");
-    assert.equal(entity.url, "https://t.me/test_bot?start=vocab_0");
     sent.length = 0;
     await handleMessage({ chat: { id: 123, type: "private" }, text: "/start vocab_0" }, {
       lookupWord: () => assert.fail("Clicking a link must not call AvalAI"),
@@ -86,6 +82,16 @@ test("authorized word lookup sends details and updated list", async () => {
     });
     assert.equal(sent.length, 1);
     assert.match(sent[0].text, /An examination/);
+    sent.length = 0;
+    await handleMessage({ chat: { id: 123, type: "private" }, text: "/list" }, {
+      lookupWord: () => assert.fail("Listing must not call AvalAI"),
+      loadVocabulary: async () => [entry],
+    });
+    assert.equal(sent.length, 1);
+    assert.equal(sent[0].text, formatList([entry]));
+    const entity = sent[0].entities.find((item) => item.type === "text_link");
+    assert.equal(sent[0].text.slice(entity.offset, entity.offset + entity.length), "test");
+    assert.equal(entity.url, "https://t.me/test_bot?start=vocab_0");
   } finally {
     globalThis.fetch = originalFetch;
     for (const [key, value] of [["TELEGRAM_CHAT_ID", previousId], ["TELEGRAM_BOT_TOKEN", previousToken]]) {

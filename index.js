@@ -12,7 +12,7 @@ import { readFile, writeFile, rename, unlink } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { resolve } from "node:path";
 import { randomUUID } from "node:crypto";
-import { runBot, sendVocabulary } from "./telegram.js";
+import { runBot, sendWord } from "./telegram.js";
 
 dotenv.config({
   path: fileURLToPath(new URL(".env", import.meta.url)),
@@ -289,8 +289,8 @@ export async function main() {
   console.log(cached ? "Already saved; no API request needed." : "Saved to vocabulary.json.");
   if (process.env.TELEGRAM_BOT_TOKEN && process.env.TELEGRAM_CHAT_ID) {
     try {
-      await sendVocabulary(process.env.TELEGRAM_CHAT_ID, entry, await loadVocabulary());
-      console.log("Sent word details and vocabulary list to Telegram.");
+      await sendWord(process.env.TELEGRAM_CHAT_ID, entry);
+      console.log("Sent word details to Telegram.");
     } catch {
       console.error("Word is saved locally, but Telegram delivery failed. Use /list or send the word again to retry.");
     }

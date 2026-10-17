@@ -194,5 +194,2240 @@
       "us": "/ɪn taɪm/",
       "uk": "/ɪn taɪm/"
     }
+  },
+  {
+    "word": "harbour",
+    "pos": "noun",
+    "englishDefinition": "A sheltered body of water where ships, boats, and barges can be docked or moored.",
+    "persianMeaning": "بندر",
+    "examples": [
+      "The fishing boats returned to the harbour after a long day at sea.",
+      "The city boasts one of the safest harbours in the region."
+    ],
+    "root": "From Old English 'herebeorg', meaning 'shelter', derived from Proto-West Germanic.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈhɑːrbər/",
+      "uk": "/ˈhɑːbə/"
+    }
+  },
+  {
+    "word": "coach",
+    "pos": "noun",
+    "englishDefinition": "A person who trains and instructs athletes or sports teams.",
+    "persianMeaning": "مربی",
+    "examples": [
+      "The coach gave the team a pep talk before the big game.",
+      "She works as a soccer coach for the youth academy.",
+      "The coach developed a new training plan to improve the players' performance."
+    ],
+    "root": "Middle English, from Old French 'coche', derived from Hungarian 'kocsi', meaning 'from Kocs', a village in Hungary famous for its carriages.",
+    "wordFamily": [
+      "coaching",
+      "coached",
+      "coachman"
+    ],
+    "pronunciation": {
+      "us": "/koʊtʃ/",
+      "uk": "/kəʊtʃ/"
+    }
+  },
+  {
+    "word": "call in",
+    "pos": "phrasal verb",
+    "englishDefinition": "To contact a place or person, especially by telephone, to provide information or to request assistance.",
+    "persianMeaning": "تماس گرفتن",
+    "examples": [
+      "I decided to call in to the radio station to answer the trivia question.",
+      "Please call in if you have any questions about the product.",
+      "She called in sick to work due to her cold."
+    ],
+    "root": "The phrase 'call in' combines 'call' meaning to communicate by phone (Old Norse 'kalla') with 'in', indicating direction or purpose (from Old English 'inn'). This specific usage as a phrasal verb emerged in the mid-20th century.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/kɔːl ɪn/",
+      "uk": "/kɔːl ɪn/"
+    }
+  },
+  {
+    "word": "leisurely",
+    "pos": "adjective",
+    "englishDefinition": "acting or done in a relaxed and unhurried manner; slow and easy.",
+    "persianMeaning": "آرام و ساده",
+    "examples": [
+      "We took a leisurely stroll through the park on a sunny afternoon.",
+      "She enjoyed a leisurely breakfast while reading her favorite book.",
+      "The vacation allowed for some much-needed leisurely time away from work."
+    ],
+    "root": "From Middle English 'leiser,' from Old French 'loisir,' from Latin 'licere' meaning 'to be allowed.'",
+    "wordFamily": [
+      "leisure",
+      "leisureliness"
+    ],
+    "pronunciation": {
+      "us": "/ˈleʒərli/",
+      "uk": "/ˈleʒəli/"
+    }
+  },
+  {
+    "word": "promenade",
+    "pos": "noun",
+    "englishDefinition": "A paved public walk, typically one along a waterfront or in a park, used for leisurely walking or socializing.",
+    "persianMeaning": "پیاده‌رو",
+    "examples": [
+      "We took a stroll along the promenade by the beach during sunset.",
+      "The city plans to renovate the promenade to attract more visitors.",
+      "On weekends, the promenade is filled with families and street performers."
+    ],
+    "root": "The word 'promenade' comes from the French word 'promenade', meaning 'a walk', derived from 'promener', meaning 'to lead/forth to walk'.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˌprɑː.məˈnɑːd/",
+      "uk": "/ˌprɒ.məˈnæd/"
+    }
+  },
+  {
+    "word": "horse-drawn tram",
+    "pos": "noun",
+    "englishDefinition": "A tram or streetcar that is pulled by horses rather than powered by electricity or other means.",
+    "persianMeaning": "تراموا با اسب کشیده شده",
+    "examples": [
+      "In the 19th century, horse-drawn trams were a popular mode of public transport.",
+      "The city restored old horse-drawn trams for historical tours around the main square.",
+      "Visitors can ride the horse-drawn tram to experience a piece of the past."
+    ],
+    "root": "The term \"horse-drawn\" combines \"horse\" from Old English \"hors\" and \"drawn\" from Middle English \"drawen,\" derived from Old English \"dragan.\" The term \"tram\" comes from the Scottish word \"tram\" meaning a beam, from Dutch \"trammel.\"",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˌhɔrs drɔn trɛm/",
+      "uk": "/ˌhɔːs drɔːn træm/"
+    }
+  },
+  {
+    "word": "spectacular",
+    "pos": "adjective",
+    "englishDefinition": "involving great amazement or wonder; impressive.",
+    "persianMeaning": "خیره کننده",
+    "examples": [
+      "The fireworks display was absolutely spectacular.",
+      "They put on a spectacular performance that left the audience in awe.",
+      "The mountain view from the summit was simply spectacular."
+    ],
+    "root": "from Latin 'spectacularis', from 'spectare' meaning 'to look at'.",
+    "wordFamily": [
+      "spectacle",
+      "spectator",
+      "spectacularly"
+    ],
+    "pronunciation": {
+      "us": "/spɛkˈtæk.jʊ.lɚ/",
+      "uk": "/spekˈtæk.jʊ.lə/}}}  ,exports:{"
+    }
+  },
+  {
+    "word": "heritage sites",
+    "pos": "noun phrase",
+    "englishDefinition": "Locations that are designated as being of historical, cultural, or natural significance, often protected by law to preserve their value for future generations.",
+    "persianMeaning": "محل‌های میراثی",
+    "examples": [
+      "The ancient ruins are now protected as heritage sites.",
+      "Many heritage sites around the world attract millions of tourists each year.",
+      "Preserving local heritage sites is crucial for maintaining cultural identity."
+    ],
+    "root": "The term 'heritage' originates from the Latin word 'heritam', meaning 'to inherit', and 'sites' is derived from the Latin 'situs', meaning 'site or place'.",
+    "wordFamily": [
+      "heritage",
+      "heritage-listed"
+    ],
+    "pronunciation": {
+      "us": "/ˈhɛrɪtɪdʒ saɪts/",
+      "uk": "/ˈhɛrɪtɪdʒ saɪts/"
+    }
+  },
+  {
+    "word": "headland",
+    "pos": "noun",
+    "englishDefinition": "A raised area of land that juts out into a body of water, often forming a prominent feature along a coastline.",
+    "persianMeaning": "شکاف",
+    "examples": [
+      "We enjoyed a scenic hike along the headland overlooking the ocean.",
+      "The cliffs at the headland provided a perfect spot for photography.",
+      "Many ships navigate carefully around the headland due to the strong currents."
+    ],
+    "root": "The term 'headland' originates from Old English 'heafodland', where 'heafod' means 'head' and 'land' refers to 'land'.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈhɛd.lænd/",
+      "uk": "/ˈhɛd.lənd/"
+    }
+  },
+  {
+    "word": "overlook",
+    "pos": "verb",
+    "englishDefinition": "To fail to notice or consider something; to disregard.",
+    "persianMeaning": "نادیده گرفتن",
+    "examples": [
+      "I didn't mean to overlook the details in the report.",
+      "She tends to overlook important issues during discussions.",
+      "If you overlook the instructions, you might make a mistake."
+    ],
+    "root": "Middle English, from 'over' + 'looken' (to look).",
+    "wordFamily": [
+      "overlooked",
+      "overlooking",
+      "overlooker"
+    ],
+    "pronunciation": {
+      "us": "/ˌoʊ.vɚˈlʊk/",
+      "uk": "/ˌəʊ.vəˈlʊk/"
+    }
+  },
+  {
+    "word": "calf",
+    "pos": "noun",
+    "englishDefinition": "A young bovine animal, specifically a domestic cow or bull, typically less than a year old.",
+    "persianMeaning": "گوساله",
+    "examples": [
+      "The farmer raised a calf to join the herd.",
+      "She saw a calf drinking milk from its mother.",
+      "In the spring, many calves are born on the ranch."
+    ],
+    "root": "From Middle English 'calf', from Old Norse 'kalfr', related to the Proto-Germanic '*kalwbaz'.",
+    "wordFamily": [
+      "calves",
+      "calfskin",
+      "calf-like"
+    ],
+    "pronunciation": {
+      "us": "/kæf/",
+      "uk": "/kɑːf/"
+    }
+  },
+  {
+    "word": "mediaeval",
+    "pos": "adjective",
+    "englishDefinition": "Relating to the Middle Ages, a period in European history roughly from the 5th to the late 15th century.",
+    "persianMeaning": "قرون وسطی",
+    "examples": [
+      "The mediaeval architecture of the cathedral is breathtaking.",
+      "Many mediaeval manuscripts are preserved in the library.",
+      "The history of mediaeval Europe is complex and fascinating."
+    ],
+    "root": "Derived from the Latin phrase 'medium aevum', meaning 'the middle age'.",
+    "wordFamily": [
+      "mediaevalism",
+      "mediaevalist"
+    ],
+    "pronunciation": {
+      "us": "/ˌmiːdiˈiːvəl/",
+      "uk": "/ˌmɛdɪˈiːvəl/"
+    }
+  },
+  {
+    "word": "trait",
+    "pos": "noun",
+    "englishDefinition": "A distinguishing characteristic or quality, especially of one's personal nature.",
+    "persianMeaning": "ویژگی",
+    "examples": [
+      "Honesty is a valuable trait in a friend.",
+      "Patience is one of her best traits.",
+      "His most notable trait is his sense of humor."
+    ],
+    "root": "From Middle French 'trait', from Latin 'tractus', meaning 'pulling, dragging, drawing'.",
+    "wordFamily": [
+      "traits",
+      "traitorous",
+      "traitor"
+    ],
+    "pronunciation": {
+      "us": "/treɪt/",
+      "uk": "/treɪt/"
+    }
+  },
+  {
+    "word": "stereotypes",
+    "pos": "noun",
+    "englishDefinition": "Widely held but oversimplified and generalized beliefs or ideas about a particular type of person or thing.",
+    "persianMeaning": "کلیشه‌ها",
+    "examples": [
+      "Many stereotypes about different cultures are often inaccurate.",
+      "It's important to challenge the stereotypes that exist in our society."
+    ],
+    "root": "Derived from the Greek word 'stereos' meaning 'solid' and 'typos' meaning 'impression' or 'type'; originally referred to a method used in printing.",
+    "wordFamily": [
+      "stereotype",
+      "stereotyping"
+    ],
+    "pronunciation": {
+      "us": "/ˈstɛr.i.oʊ.taɪp/",
+      "uk": "/ˈstɛr.i.əʊ.taɪp/"
+    }
+  },
+  {
+    "word": "robust",
+    "pos": "adjective",
+    "englishDefinition": "Strong and healthy; vigorous; able to withstand or overcome adverse conditions.",
+    "persianMeaning": "قوی و سالم; توانمند; قادر به تحمل یا غلبه بر شرایط نامساعد.",
+    "examples": [
+      "The new software is robust enough to handle heavy traffic without crashing.",
+      "He has a robust physique, which allows him to excel in various sports.",
+      "The company's robust sales figures indicate a strong demand for their products."
+    ],
+    "root": "From Latin 'robustus', meaning 'strong, hardy', possibly derived from 'robur', meaning 'oak'.",
+    "wordFamily": [
+      "robustly",
+      "robustness"
+    ],
+    "pronunciation": {
+      "us": "/roʊˈbʌst/",
+      "uk": "/rəʊˈbʌst/"
+    }
+  },
+  {
+    "word": "typical",
+    "pos": "adjective",
+    "englishDefinition": "having the distinctive qualities of a particular type of person or thing; representative of a particular category.",
+    "persianMeaning": "معمولی",
+    "examples": [
+      "It was a typical sunny day in June.",
+      "She gave a typical response to the question.",
+      "His behavior is typical of someone who is under stress."
+    ],
+    "root": "Derived from the Latin word 'typicus', meaning 'of a type' or 'symbolic'.",
+    "wordFamily": [
+      "typically",
+      "typicalness"
+    ],
+    "pronunciation": {
+      "us": "/ˈtɪp.ɪ.kəl/",
+      "uk": "/ˈtɪp.ɪ.kəl/"
+    }
+  },
+  {
+    "word": "consensus",
+    "pos": "noun",
+    "englishDefinition": "General agreement among a group of people.",
+    "persianMeaning": "توافق عمومی",
+    "examples": [
+      "The committee reached a consensus after hours of discussion.",
+      "There was a broad consensus on the need for reform.",
+      "Finding a consensus can be challenging when opinions vary widely."
+    ],
+    "root": "From Latin 'consensus', meaning 'agreement' or 'accord'.",
+    "wordFamily": [
+      "consensual",
+      "consent",
+      "consenting"
+    ],
+    "pronunciation": {
+      "us": "/kənˈsɛn.səs/",
+      "uk": "/kənˈsɛn.səs/"
+    }
+  },
+  {
+    "word": "nurturing",
+    "pos": "adjective",
+    "englishDefinition": "Providing care, encouragement, and support for growth and development.",
+    "persianMeaning": "پرورش‌دهنده",
+    "examples": [
+      "She has a nurturing personality, always encouraging her friends to strive for their goals.",
+      "The teacher's nurturing approach helped the students feel safe and supported in their learning environment.",
+      "Nurturing a child's creativity can lead to greater confidence and innovation."
+    ],
+    "root": "From Middle English 'nurturen', which originates from the Old French 'nourrir', meaning to feed or nourish, from Latin 'nutrire', meaning to nourish.",
+    "wordFamily": [
+      "nurture",
+      "nurturer"
+    ],
+    "pronunciation": {
+      "us": "/ˈnɜr.tʃər.ɪŋ/",
+      "uk": "/ˈnɜː.tʃər.ɪŋ/"
+    }
+  },
+  {
+    "word": "co-operative",
+    "pos": "adjective",
+    "englishDefinition": "Involving mutual assistance in working towards a common goal.",
+    "persianMeaning": "همکاری",
+    "examples": [
+      "The co-operative effort led to a successful project completion.",
+      "She joined a co-operative to help support local farmers.",
+      "Co-operative organizations are essential for community development."
+    ],
+    "root": "The term 'co-operative' is derived from the Latin 'cooperari', which means 'to work together'. This Latin term combines 'com-' (meaning together) and 'operari' (meaning to work).",
+    "wordFamily": [
+      "cooperate",
+      "cooperation",
+      "cooperator"
+    ],
+    "pronunciation": {
+      "us": "/koʊˈɒpərətɪv/",
+      "uk": "/kəʊˈɒpərətɪv/"
+    }
+  },
+  {
+    "word": "envious",
+    "pos": "adjective",
+    "englishDefinition": "Feeling or showing a desire to have what someone else has; jealous.",
+    "persianMeaning": "حسود",
+    "examples": [
+      "She was envious of her friend's new car.",
+      "His envious attitude made it hard for him to celebrate her successes.",
+      "I felt envious when I saw their beautiful home."
+    ],
+    "root": "The word 'envious' comes from the Latin 'invidiosus', which derives from 'invidia', meaning 'jealousy' or 'envy'.",
+    "wordFamily": [
+      "envy",
+      "enviousness"
+    ],
+    "pronunciation": {
+      "us": "/ˈɛnvɪəs/",
+      "uk": "/ˈɛnvɪəs/"
+    }
+  },
+  {
+    "word": "nurture",
+    "pos": "verb",
+    "englishDefinition": "To care for and encourage the growth or development of someone or something.",
+    "persianMeaning": "پرورش دادن",
+    "examples": [
+      "It is important to nurture children's creativity.",
+      "The company aims to nurture innovative ideas among its employees.",
+      "She was nurtured in a loving environment, which helped her thrive."
+    ],
+    "root": "The word 'nurture' originates from the Latin 'nutrire', meaning 'to feed, rear'.",
+    "wordFamily": [
+      "nurturing",
+      "nurturer",
+      "nurtured"
+    ],
+    "pronunciation": {
+      "us": "/ˈnɜːr.tʃər/",
+      "uk": "/ˈnɜː.tʃər/"
+    }
+  },
+  {
+    "word": "press",
+    "pos": "verb",
+    "englishDefinition": "To apply pressure to something to make it flatter, smoother, or into a specific shape.",
+    "persianMeaning": "فشار دادن",
+    "examples": [
+      "Please press the button to start the machine.",
+      "She pressed the paper flat before framing it.",
+      "He pressed the dough into the baking pan."
+    ],
+    "root": "From Latin \"pressare\" meaning 'to press down', derived from \"premere\" meaning 'to press'.",
+    "wordFamily": [
+      "pressed",
+      "pressing",
+      "presses",
+      "pressure"
+    ],
+    "pronunciation": {
+      "us": "/prɛs/",
+      "uk": "/prɛs/"
+    }
+  },
+  {
+    "word": "bad press",
+    "pos": "noun",
+    "englishDefinition": "Negative publicity or unfavorable coverage in the media that affects someone's reputation or public perception.",
+    "persianMeaning": "پوشش منفی",
+    "examples": [
+      "The company faced a lot of bad press after the scandal was uncovered.",
+      "Despite the bad press, the politician continued to campaign vigorously.",
+      "She was worried that bad press would damage her career permanently."
+    ],
+    "root": "The term 'press' in this context refers to the media or journalists, derived from the printing press, with 'bad' being of Old English origin meaning 'evil' or 'harmful'. The phrase likely emerged in the 20th century.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/bæd prɛs/",
+      "uk": "/bæd prɛs/"
+    }
+  },
+  {
+    "word": "revolve",
+    "pos": "verb",
+    "englishDefinition": "To move in a circle around a central point or axis.",
+    "persianMeaning": "چرخیدن",
+    "examples": [
+      "The Earth revolves around the Sun.",
+      "The wheels of the bicycle revolve as it moves forward.",
+      "The discussion will revolve around our project goals."
+    ],
+    "root": "From Latin 'revolvere', which means 'to roll back' or 'turn over', composed of 're-' (again) and 'volvere' (to roll).",
+    "wordFamily": [
+      "revolves",
+      "revolved",
+      "revolving"
+    ],
+    "pronunciation": {
+      "us": "/rɪˈvɑlv/",
+      "uk": "/rɪˈvɒlv/"
+    }
+  },
+  {
+    "word": "harsh",
+    "pos": "adjective",
+    "englishDefinition": "Unpleasantly rough or jarring to the senses; cruel or severe in manner or treatment.",
+    "persianMeaning": "سخت",
+    "examples": [
+      "The harsh weather made it difficult to travel.",
+      "Her harsh words hurt his feelings deeply.",
+      "The landscape was harsh and unforgiving."
+    ],
+    "root": "From Middle English 'hersh', of uncertain origin, possibly from Old Norse 'herskr' meaning 'cruel'.",
+    "wordFamily": [
+      "harshness",
+      "harshly"
+    ],
+    "pronunciation": {
+      "us": "/hɑːrʃ/",
+      "uk": "/hɑːʃ/"
+    }
+  },
+  {
+    "word": "decline",
+    "pos": "verb",
+    "englishDefinition": "to become smaller, fewer, or less; to decrease in strength, quality, or importance.",
+    "persianMeaning": "کاهش یافتن",
+    "examples": [
+      "The number of participants in the conference declined this year.",
+      "She declined the job offer due to personal reasons.",
+      "The company's profits have been in decline for several quarters."
+    ],
+    "root": "Middle English, from Old French 'decliner', from Latin 'declinare', meaning 'to bend downwards' or 'to turn aside'.",
+    "wordFamily": [
+      "declining",
+      "declined",
+      "decline",
+      "decliner"
+    ],
+    "pronunciation": {
+      "us": "/dɪˈklaɪn/",
+      "uk": "/dɪˈklaɪn/"
+    }
+  },
+  {
+    "word": "socio-economic",
+    "pos": "adjective",
+    "englishDefinition": "Relating to or concerned with the interaction of social and economic factors.",
+    "persianMeaning": "اجتماعی-اقتصادی",
+    "examples": [
+      "The socio-economic status of a community can greatly influence educational outcomes.",
+      "Government policies often aim to address socio-economic disparities among different populations.",
+      "Understanding the socio-economic impacts of climate change is essential for effective policymaking."
+    ],
+    "root": "The term 'socio-economic' is a blend of the words 'social' and 'economic'. 'Social' originates from the Latin 'socialis', meaning 'of society'; 'economic' comes from the Greek 'oikonomikos', meaning 'of household management'.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˌsoʊ.si.oʊ.ɪˈkɒn.əm.ɪk/",
+      "uk": "/ˌsəʊ.si.əʊ.ɪˈkɒn.ə.mɪk/"
+    }
+  },
+  {
+    "word": "marginally",
+    "pos": "adverb",
+    "englishDefinition": "To a limited extent; not very much.",
+    "persianMeaning": "به طور جزئی",
+    "examples": [
+      "The cost of living has increased marginally this year.",
+      "She passed the exam marginally, with just enough points to qualify.",
+      "His performance improved marginally compared to last season."
+    ],
+    "root": "From the word 'marginal', which comes from Latin 'marginalis', meaning 'of the margin'.",
+    "wordFamily": [
+      "marginal",
+      "marginality"
+    ],
+    "pronunciation": {
+      "us": "/ˈmɑrdʒɪnəli/",
+      "uk": "/ˈmɑːdʒɪnəli/"
+    }
+  },
+  {
+    "word": "contribute",
+    "pos": "verb",
+    "englishDefinition": "To give (something, such as money or time) to help achieve or provide something.",
+    "persianMeaning": "مشارکت کردن",
+    "examples": [
+      "She decided to contribute her savings to the charity.",
+      "Many employees contribute to the retirement fund.",
+      "The team worked hard to contribute ideas for the project."
+    ],
+    "root": "From Latin 'contributus', past participle of 'contribuere', meaning 'to bring together', from 'con-' (together) + 'tribuere' (to assign, to allot).",
+    "wordFamily": [
+      "contribution",
+      "contributory",
+      "contributor"
+    ],
+    "pronunciation": {
+      "us": "/kənˈtrɪb.juːt/",
+      "uk": "/kənˈtrɪb.jʊt/"
+    }
+  },
+  {
+    "word": "rivalry",
+    "pos": "noun",
+    "englishDefinition": "A competition for the same objective or superiority in the same field.",
+    "persianMeaning": "رقابت",
+    "examples": [
+      "The rivalry between the two sports teams has led to some intense matches.",
+      "Their friendly rivalry motivated them to work harder and achieve their goals.",
+      "The rivalry in the tech industry drives innovation and pushes companies to improve."
+    ],
+    "root": "The term 'rivalry' originates from the Latin word 'rivalis', meaning 'one who uses the same stream', from 'rivus', meaning 'stream'. This reflects the idea of competing parties having a common source or goal.",
+    "wordFamily": [
+      "rival",
+      "rivaled",
+      "rivaling",
+      "rivalrous"
+    ],
+    "pronunciation": {
+      "us": "/ˈraɪ.vəl.ri/",
+      "uk": "/ˈraɪ.vəl.ri/"
+    }
+  },
+  {
+    "word": "amicably",
+    "pos": "adverb",
+    "englishDefinition": "In a friendly and peaceable manner.",
+    "persianMeaning": "دوستانه",
+    "examples": [
+      "They resolved their differences amicably and agreed to work together.",
+      "The two countries settled their disputes amicably without any military conflict.",
+      "Despite their disagreements, they parted ways amicably."
+    ],
+    "root": "From Latin 'amicabilis', from 'amicus' meaning 'friend'.",
+    "wordFamily": [
+      "amicable",
+      "amicability"
+    ],
+    "pronunciation": {
+      "us": "/ˈæm.ɪ.kə.bli/",
+      "uk": "/ˈæm.ɪ.kə.bli/"
+    }
+  },
+  {
+    "word": "nectar",
+    "pos": "noun",
+    "englishDefinition": "A sweet liquid produced by flowers that attracts pollinators, or a sugary fluid that is often associated with fruit juices or beverages.",
+    "persianMeaning": "شهد",
+    "examples": [
+      "The bees collect nectar from the flowers to make honey.",
+      "She enjoyed a refreshing drink made from the nectar of exotic fruits.",
+      "The garden was full of blooming flowers, each one filled with fragrant nectar."
+    ],
+    "root": "The word 'nectar' comes from the Greek 'nektar', which refers to a drink of the gods in mythology, associated with immortality. Its exact origin is uncertain, but it has been adapted into various languages from this source.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈnɛk.tɚ/",
+      "uk": "/ˈnɛk.tə/."
+    }
+  },
+  {
+    "word": "biodiversity",
+    "pos": "noun",
+    "englishDefinition": "The variety of life in the world or in a particular habitat or ecosystem",
+    "persianMeaning": "تنوع زیستی",
+    "examples": [
+      "The Amazon rainforest is known for its incredible biodiversity.",
+      "Conservation efforts aim to preserve biodiversity in endangered ecosystems.",
+      "Biodiversity is essential for maintaining ecological balance."
+    ],
+    "root": "Derived from the words 'bio-' (from Greek 'bios' meaning 'life') and 'diversity' (from Latin 'diversitas' meaning 'variety').",
+    "wordFamily": [
+      "biodiverse",
+      "biodiversification"
+    ],
+    "pronunciation": {
+      "us": "/ˌbaɪ.oʊ.dɪˈvɜr.sɪ.ti/",
+      "uk": "/ˌbaɪ.əʊ.dɪˈvɜː.sɪ.ti/"
+    }
+  },
+  {
+    "word": "disinfectant",
+    "pos": "noun",
+    "englishDefinition": "A chemical agent used to destroy or inactivate harmful microorganisms on surfaces or in liquids.",
+    "persianMeaning": "مواد ضدعفونی",
+    "examples": [
+      "The hospital staff used a disinfectant to clean the operating room thoroughly.",
+      "Make sure to wipe down the kitchen counters with disinfectant to prevent the spread of germs.",
+      "Disinfectants are an essential part of maintaining hygiene in public places."
+    ],
+    "root": "The term 'disinfectant' originates from the Latin 'disinfectare', meaning 'to purify' or 'to rid of infection', combining 'dis-' (apart) and 'infectare' (to infect).",
+    "wordFamily": [
+      "disinfect",
+      "disinfecting",
+      "disinfection"
+    ],
+    "pronunciation": {
+      "us": "/ˌdɪs.ɪnˈfɛk.tənt/",
+      "uk": "/ˌdɪs.ɪnˈfɛk.tənt/"
+    }
+  },
+  {
+    "word": "prematurely",
+    "pos": "adverb",
+    "englishDefinition": "Before the expected or usual time; too early.",
+    "persianMeaning": "زودرس",
+    "examples": [
+      "The baby was born prematurely and needed special care.",
+      "The project was completed prematurely, resulting in several inconsistencies.",
+      "He left the party prematurely, missing the best part of the celebration."
+    ],
+    "root": "From Latin praematurus, from prae- 'before' + maturus 'ripe, timely'.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˌpriː.məˈtʃʊr.li/",
+      "uk": "/ˌpriː.məˈtʃʊə.li/"
+    }
+  },
+  {
+    "word": "lime",
+    "pos": "noun",
+    "englishDefinition": "A green, acidic fruit used in cooking and beverages; also refers to a white powder or substance made from the calcination of limestone, often used in construction and agriculture.",
+    "persianMeaning": "لیمو",
+    "examples": [
+      "I squeezed some lime juice over the fish for extra flavor.",
+      "The builder used lime to create a strong mortar for the bricks.",
+      "Lime is often added to cocktails for a refreshing taste."
+    ],
+    "root": "The word 'lime' comes from the Old French 'limon' and is derived from the Arabic 'laymūn', which can also be traced back to the Persian 'limu'.",
+    "wordFamily": [
+      "limes",
+      "liming",
+      "limed"
+    ],
+    "pronunciation": {
+      "us": "/laɪm/",
+      "uk": "/laɪm/"
+    }
+  },
+  {
+    "word": "suck up",
+    "pos": "phrasal verb",
+    "englishDefinition": "To ingratiate oneself with someone in authority, often through excessive flattery or obsequious behavior.",
+    "persianMeaning": "تملق کردن",
+    "examples": [
+      "He always tries to suck up to the boss by complimenting her ideas.",
+      "She was accused of sucking up to her teachers to get better grades.",
+      "Don't suck up to your coworkers; just be yourself."
+    ],
+    "root": "The term 'suck up' likely comes from the combination of 'suck' (meaning to draw in or absorb) and 'up' (indicating direction or intention to elevate one's status), originating in 20th-century America, with 'suck' being of Old English origin.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/sʌk ʌp/",
+      "uk": "/sʌk ʌp/"
+    }
+  },
+  {
+    "word": "suck up sth",
+    "pos": "phrasal verb",
+    "englishDefinition": "To absorb or take in something eagerly or greedily, often used metaphorically to describe someone who ingratiates themselves with someone in authority.",
+    "persianMeaning": "چیزی را بلعیدن یا جذب کردن، به خصوص به شیوه‌ای که به نفع خود باشد",
+    "examples": [
+      "He always tries to suck up to the boss by bringing her coffee every morning.",
+      "I don't want to suck up to my teacher, but I really appreciate her help."
+    ],
+    "root": "Unknown",
+    "wordFamily": [
+      "suck",
+      "sucker",
+      "sucking"
+    ],
+    "pronunciation": {
+      "us": "/sʌk ʌp/",
+      "uk": "/sʌk ʌp/"
+    }
+  },
+  {
+    "word": "eat their way around them",
+    "pos": "idiom",
+    "englishDefinition": "To navigate a situation or environment, often by enjoying food or dining experiences, rather than confronting challenges directly.",
+    "persianMeaning": "به دور آنها غذا خوردن",
+    "examples": [
+      "During our trip to Italy, we decided to eat our way around the cities, sampling local dishes at every stop.",
+      "Instead of worrying about the tight schedule, we chose to eat our way around the event, enjoying the various cuisines offered.",
+      "On vacation, we love to eat our way around the different neighborhoods, experiencing cultures through their food."
+    ],
+    "root": "This expression derives from the metaphorical use of 'eat' in contexts of exploration and enjoyment, potentially influenced by cultural practices around food serving as social or experiential navigation.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/it ðɛr weɪ əˈraʊnd ðɛm/",
+      "uk": "/iːt ðeə weɪ əˈraʊnd ðɛm/"
+    }
+  },
+  {
+    "word": "secrete",
+    "pos": "verb",
+    "englishDefinition": "To produce and release a substance, typically a fluid or chemical, from a cell or gland.",
+    "persianMeaning": "ترشح کردن",
+    "examples": [
+      "The pancreas secretes insulin to regulate blood sugar levels.",
+      "Salivary glands secrete saliva to aid in digestion.",
+      "Certain plants secrete nectar to attract pollinators."
+    ],
+    "root": "From Latin 'secretaire' meaning 'to separate', stemming from 'secreta' meaning 'something set apart'.",
+    "wordFamily": [
+      "secret",
+      "secretion",
+      "secretive",
+      "secretive"
+    ],
+    "pronunciation": {
+      "us": "/sɪˈkriːt/",
+      "uk": "/sɪˈkriːt/"
+    }
+  },
+  {
+    "word": "flourish",
+    "pos": "verb",
+    "englishDefinition": "To grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment.",
+    "persianMeaning": "شهد حیات",
+    "examples": [
+      "The plants flourish in this rich soil.",
+      "The company's business began to flourish after the new policy was implemented.",
+      "She seemed to flourish in her new role as team leader."
+    ],
+    "root": "Middle English, from Old French 'flourir', which derives from Latin 'florere', meaning 'to bloom'.",
+    "wordFamily": [
+      "flourishing",
+      "flourished",
+      "flourisher"
+    ],
+    "pronunciation": {
+      "us": "/ˈflɔːrɪʃ/",
+      "uk": "/ˈflʌrɪʃ/"
+    }
+  },
+  {
+    "word": "flourish at",
+    "pos": "phrasal verb",
+    "englishDefinition": "To thrive or prosper in a particular situation or environment.",
+    "persianMeaning": "در یک موقعیت خاص شکوفا شدن",
+    "examples": [
+      "She seems to flourish at her new job, quickly gaining respect from her colleagues.",
+      "Children flourish at schools that support their individual learning styles.",
+      "The business began to flourish at the onset of the holiday season."
+    ],
+    "root": "The term 'flourish' comes from the Middle English 'flourishen', derived from the Old French 'flourir', which originates from the Latin 'flourire', meaning 'to flower, bloom'. The preposition 'at' is of Old English origin, related to 'æt', meaning 'by' or 'near'.",
+    "wordFamily": [
+      "flourish",
+      "flourishing",
+      "flourished"
+    ],
+    "pronunciation": {
+      "us": "/ˈflɔːr.ɪʃ æt/",
+      "uk": "/ˈflaʊə.rɪʃ æt/"
+    }
+  },
+  {
+    "word": "expense",
+    "pos": "noun",
+    "englishDefinition": "The cost incurred in or required for something; an expenditure.",
+    "persianMeaning": "هزینه",
+    "examples": [
+      "The expense of living in the city is quite high.",
+      "Her medical expenses were covered by insurance.",
+      "They had to keep track of their monthly expenses to stay within budget."
+    ],
+    "root": "From Old French 'espeance', from Latin 'expendere', meaning 'to weigh out, pay out'.",
+    "wordFamily": [
+      "expensive",
+      "expensively",
+      "expensiveness"
+    ],
+    "pronunciation": {
+      "us": "/ɪkˈspɛns/",
+      "uk": "/ɪkˈspɛns/"
+    }
+  },
+  {
+    "word": "bushfire",
+    "pos": "noun",
+    "englishDefinition": "A large and uncontrolled fire that burns in the bush or wild vegetation, typically in rural areas, often associated with hot, dry weather.",
+    "persianMeaning": "آتش‌سوزی در بوته‌زار",
+    "examples": [
+      "The bushfire spread quickly, consuming everything in its path.",
+      "Residents were evacuated as the bushfire approached their homes.",
+      "Firefighters worked tirelessly to contain the bushfire before it caused more damage."
+    ],
+    "root": "The term 'bushfire' is a compound of 'bush', which originates from the Australian English term for uncultivated land or dense vegetation, and 'fire', derived from Old English 'fyr'.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈbʊʃˌfaɪər/",
+      "uk": "/ˈbʊʃfaɪə/."
+    }
+  },
+  {
+    "word": "proposed",
+    "pos": "verb",
+    "englishDefinition": "To put forward an idea or plan for consideration or discussion.",
+    "persianMeaning": "پیشنهاد شده",
+    "examples": [
+      "The director proposed a new strategy for increasing sales.",
+      "She proposed that we meet next week to discuss the project.",
+      "He has proposed changes to the existing policy."
+    ],
+    "root": "Derived from the Latin 'proponere', meaning 'to put forth', composed of 'pro-' meaning 'forth' and 'ponere' meaning 'to place'.",
+    "wordFamily": [
+      "propose",
+      "proposing",
+      "proposition",
+      "proposer"
+    ],
+    "pronunciation": {
+      "us": "/prəˈpoʊzd/",
+      "uk": "/prəˈpəʊzd/"
+    }
+  },
+  {
+    "word": "ecologist",
+    "pos": "noun",
+    "englishDefinition": "A scientist who studies the relationships between organisms and their environment.",
+    "persianMeaning": "اکولوژیست",
+    "examples": [
+      "The ecologist presented her research on the effects of climate change on local wildlife.",
+      "Many ecologists are advocating for sustainable practices to preserve biodiversity.",
+      "As an ecologist, he focuses on the impact of pollution on aquatic ecosystems."
+    ],
+    "root": "The term 'ecologist' comes from the Greek word 'oikos', meaning 'house' or 'environment', and the suffix '-ologist', which denotes a specialist in a particular field of study.",
+    "wordFamily": [
+      "ecology",
+      "ecological",
+      "ecologically"
+    ],
+    "pronunciation": {
+      "us": "/ɪˈkɑːlədʒɪst/",
+      "uk": "/ɪˈkɒlədʒɪst/"
+    }
+  },
+  {
+    "word": "encourage",
+    "pos": "verb",
+    "englishDefinition": "To give support, confidence, or hope to someone; to promote or stimulate the development of something.",
+    "persianMeaning": "تشویق کردن",
+    "examples": [
+      "She encouraged her friend to apply for the job.",
+      "The coach's words encouraged the team to do their best.",
+      "Parents should encourage their children to pursue their interests."
+    ],
+    "root": "From Old French 'encouragier', derived from 'en-' (to make) + 'courage' (heart, spirit) from Latin 'cor'.",
+    "wordFamily": [
+      "encouragement",
+      "encouraging",
+      "encourager"
+    ],
+    "pronunciation": {
+      "us": "/ɪnˈkərɪdʒ/",
+      "uk": "/ɪnˈkʌrɪdʒ/"
+    }
+  },
+  {
+    "word": "proliferate",
+    "pos": "verb",
+    "englishDefinition": "To increase rapidly in number or to reproduce quickly.",
+    "persianMeaning": "رشد سریع",
+    "examples": [
+      "The bacteria began to proliferate in the warm conditions.",
+      "With the advent of the internet, misinformation can proliferate rapidly.",
+      "The organization aims to proliferate its ideas through community outreach."
+    ],
+    "root": "Derived from the Latin 'proliferare', which comes from 'proles' meaning 'offspring' and 'ferre' meaning 'to bear'.",
+    "wordFamily": [
+      "proliferation",
+      "proliferative"
+    ],
+    "pronunciation": {
+      "us": "/prəˈlɪf.ə.reɪt/",
+      "uk": "/prəʊˈlɪf.ər.eɪt/"
+    }
+  },
+  {
+    "word": "indigenous",
+    "pos": "adjective",
+    "englishDefinition": "Originating or occurring naturally in a particular place; native.",
+    "persianMeaning": "بومی",
+    "examples": [
+      "The indigenous people of the region have a rich cultural heritage.",
+      "Several indigenous species of plants are only found in this area.",
+      "Efforts are being made to protect the indigenous languages that are at risk of disappearing."
+    ],
+    "root": "From Latin 'indigena', meaning 'native, sprung from the land', from 'indu-' (in) + 'gignere' (to beget).",
+    "wordFamily": [
+      "indigene",
+      "indigeneity",
+      "indigenism"
+    ],
+    "pronunciation": {
+      "us": "/ɪnˈdɪdʒ.ɪ.nəs/",
+      "uk": "/ɪnˈdɪdʒ.ɪ.nəs/"
+    }
+  },
+  {
+    "word": "dense",
+    "pos": "adjective",
+    "englishDefinition": "Having a high concentration of mass or substance; closely packed together.",
+    "persianMeaning": "متراکم",
+    "examples": [
+      "The dense forest made it difficult to see the trail.",
+      "Her dense novel required multiple readings to fully understand.",
+      "The air was dense with humidity after the rain."
+    ],
+    "root": "From Latin 'densus', meaning 'thick, close, or crowded'. Related to the Proto-Indo-European root '*dʰen-', meaning 'to be thick'.",
+    "wordFamily": [
+      "density",
+      "densely",
+      "denseness"
+    ],
+    "pronunciation": {
+      "us": "/dɛns/",
+      "uk": "/dɛns/"
+    }
+  },
+  {
+    "word": "shade",
+    "pos": "noun",
+    "englishDefinition": "A comparative darkness and coolness caused by the interception of sunlight; an area sheltered from sunlight.",
+    "persianMeaning": "سایه",
+    "examples": [
+      "I sat in the shade of the tree to escape the heat.",
+      "The artist used various shades of blue in the painting.",
+      "We found a cool shade by the lake."
+    ],
+    "root": "The word 'shade' comes from Old English 'sceadu', which is related to the Old High German 'scato' and the Latin 'umbra', meaning 'shadow' or 'shade'.",
+    "wordFamily": [
+      "shaded",
+      "shading",
+      "shadeless"
+    ],
+    "pronunciation": {
+      "us": "/ʃeɪd/",
+      "uk": "/ʃeɪd/"
+    }
+  },
+  {
+    "word": "undergrowth",
+    "pos": "noun",
+    "englishDefinition": "A dense growth of bushes and small trees, especially under the canopy of a forest.",
+    "persianMeaning": "زیرپوشش",
+    "examples": [
+      "The deer moved quietly through the undergrowth, avoiding any noise.",
+      "The undergrowth in the rainforest is home to many species of birds and insects.",
+      "Hikers should be careful when walking through the thick undergrowth."
+    ],
+    "root": "The word 'undergrowth' comes from the combination of 'under' and 'growth', with 'under' having Old English roots meaning 'beneath' or 'lower than', and 'growth' deriving from Old English 'groth', referring to vegetation or plants. Its use in English dates back to the late 15th century.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈʌndərɡroʊθ/",
+      "uk": "/ˈʌndəɡrəʊθ/"
+    }
+  },
+  {
+    "word": "nutmeg",
+    "pos": "noun",
+    "englishDefinition": "A spice made from the ground seed of the nutmeg tree, used in cooking and baking for flavoring.",
+    "persianMeaning": "مُنجَیل",
+    "examples": [
+      "She added a pinch of nutmeg to the pumpkin pie for extra flavor.",
+      "Nutmeg can enhance the taste of both sweet and savory dishes.",
+      "In traditional eggnog recipes, nutmeg is often sprinkled on top before serving."
+    ],
+    "root": "The word 'nutmeg' comes from the Middle English 'notmegge,' which is derived from the Old French 'noiz muscade' (meaning 'musked nut') and further from Latin 'nux' (nut) and 'muscus' (musk).",
+    "wordFamily": [
+      "nut",
+      "nutty"
+    ],
+    "pronunciation": {
+      "us": "/ˈnʌt.mɛg/",
+      "uk": "/ˈnʌt.mɛɡ/"
+    }
+  },
+  {
+    "word": "foliage",
+    "pos": "noun",
+    "englishDefinition": "The leaves of a plant or tree, often used collectively.",
+    "persianMeaning": "برگ‌ها",
+    "examples": [
+      "The foliage in the forest was vibrant during autumn.",
+      "She admired the lush green foliage surrounding the garden.",
+      "The plant's dense foliage provided shade on hot summer days."
+    ],
+    "root": "Derived from Middle English 'folaige', from Old French 'feuillage' (from 'feuille', meaning 'leaf'), ultimately from Latin 'folium' meaning 'leaf'.",
+    "wordFamily": [
+      "foliated",
+      "foliate"
+    ],
+    "pronunciation": {
+      "us": "/ˈfoʊliɪdʒ/",
+      "uk": "/ˈfɔːli.ɪdʒ/"
+    }
+  },
+  {
+    "word": "tough",
+    "pos": "adjective",
+    "englishDefinition": "Strong enough to withstand adverse conditions or rough handling; durable.",
+    "persianMeaning": "سخت",
+    "examples": [
+      "The material is tough enough to last for years.",
+      "He is a tough competitor in the field.",
+      "These cookies are tough to chew."
+    ],
+    "root": "From Middle English, from Old English ‘tōh’, meaning strong or hard. The ultimate origins are uncertain but may relate to Proto-Germanic.",
+    "wordFamily": [
+      "toughness",
+      "toughened"
+    ],
+    "pronunciation": {
+      "us": "/tʌf/",
+      "uk": "/tʌf/"
+    }
+  },
+  {
+    "word": "encased",
+    "pos": "verb",
+    "englishDefinition": "To surround or cover something completely, especially in a protective layer or case.",
+    "persianMeaning": "محصور شده",
+    "examples": [
+      "The delicate artifact was encased in glass to protect it from damage.",
+      "She encased her artwork in a beautiful frame before the exhibition.",
+      "The electronics were encased in a durable housing to withstand harsh conditions."
+    ],
+    "root": "Derived from the prefix 'en-' meaning 'to cause to be in' and the word 'case', which originates from Latin 'casus', meaning 'fall' or 'event' indicating a container.",
+    "wordFamily": [
+      "encase",
+      "encasement"
+    ],
+    "pronunciation": {
+      "us": "/ɛnˈkeɪst/",
+      "uk": "/ɪnˈkeɪst/"
+    }
+  },
+  {
+    "word": "fleshy husk",
+    "pos": "noun",
+    "englishDefinition": "A thick, soft, and usually fibrous outer covering of certain fruits or seeds that protects the inner edible part.",
+    "persianMeaning": "پوسته گوشتی",
+    "examples": [
+      "The fleshy husk of the coconut protects the inner fruit from external damage.",
+      "When ripe, the fleshy husk of the mango can be easily removed to enjoy the sweet flesh inside.",
+      "Some seeds have a fleshy husk that helps in dispersal when eaten by animals."
+    ],
+    "root": "The term 'husk' comes from the Old Norse 'husk', meaning a shell or outer covering. 'Fleshy' derives from the Old English 'flesc', meaning the soft substance of an animal or plant. Both words come from Germanic roots.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈflɛʃ.i hʌsk/",
+      "uk": "/ˈflɛʃ.i hʌsk/"
+    }
+  },
+  {
+    "word": "ridge",
+    "pos": "noun",
+    "englishDefinition": "A long, narrow elevated landform; a chain of hills or mountains.",
+    "persianMeaning": "پشته",
+    "examples": [
+      "We hiked along the ridge, enjoying the stunning views on either side.",
+      "The ridge was covered in lush green grass and wildflowers.",
+      "He carefully traversed the narrow ridge to reach the peak."
+    ],
+    "root": "Old English ' hrycg', meaning 'back' or 'spine', related to similar words in Germanic languages.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/rɪdʒ/",
+      "uk": "/rɪdʒ/"
+    }
+  },
+  {
+    "word": "across",
+    "pos": "preposition",
+    "englishDefinition": "From one side to the other side of (something).",
+    "persianMeaning": "در سراسر",
+    "examples": [
+      "We walked across the street to get to the park.",
+      "She threw the ball across the yard.",
+      "The river flows across the valley."
+    ],
+    "root": "The word 'across' is a combination of 'a-' (from Old English 'on' or 'in') and 'cross', which comes from the Old Norse 'kross'. It is used to indicate movement from one side to another.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/əˈkrɔs/",
+      "uk": "/əˈkrɒs/"
+    }
+  },
+  {
+    "word": "lacy",
+    "pos": "adjective",
+    "englishDefinition": "Characterized by intricate or delicate patterns resembling lace; often used to describe fabrics or clothing.",
+    "persianMeaning": "توری",
+    "examples": [
+      "She wore a beautiful lacy dress to the wedding.",
+      "The curtains were made of a soft, lacy fabric that let in the sunlight.",
+      "He gave her a lacy handkerchief as a gift."
+    ],
+    "root": "Derived from the word \"lace\", which comes from Middle English \"lace\" meaning a cord or string; of uncertain origin, possibly from Latin \"laqueus\" meaning a noose or snare.",
+    "wordFamily": [
+      "lace",
+      "laced",
+      "lacing"
+    ],
+    "pronunciation": {
+      "us": "/ˈleɪ.si/",
+      "uk": "/ˈleɪ.si/"
+    }
+  },
+  {
+    "word": "crimson",
+    "pos": "adjective",
+    "englishDefinition": "A rich, deep red color inclining to purple.",
+    "persianMeaning": "قرمز مایل به بنفش",
+    "examples": [
+      "The sunset painted the sky in shades of crimson.",
+      "She wore a stunning crimson dress to the gala.",
+      "The leaves turned crimson in the autumn."
+    ],
+    "root": "From Old French 'cramoisi', from Latin 'cremasinus', from 'cremor' meaning 'cream'.",
+    "wordFamily": [
+      "crimsoned",
+      "crimsoney",
+      "crimsoning"
+    ],
+    "pronunciation": {
+      "us": "/ˈkrɪmzən/",
+      "uk": "/ˈkrɪmzən/"
+    }
+  },
+  {
+    "word": "aril",
+    "pos": "noun",
+    "englishDefinition": "A fleshy covering around the seed of certain plants, especially in fruits such as pomegranates and yews.",
+    "persianMeaning": "پوشش گوشتی دور دانه در برخی گیاهان",
+    "examples": [
+      "The aril of the pomegranate provides a juicy snack for those who can open the tough skin.",
+      "Some plants have colorful arils that attract animals to help with seed dispersal.",
+      "The aril of the yew is toxic to humans but is consumed by birds."
+    ],
+    "root": "The word 'aril' comes from the Latin 'arillus', meaning 'a little thing, a small appendage'.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈɛərɪl/",
+      "uk": "/ˈeə.ɹɪl/"
+    }
+  },
+  {
+    "word": "mace",
+    "pos": "noun",
+    "englishDefinition": "A heavy, club-like weapon with a solid head and a short handle, often spiked or flanged, used in hand-to-hand combat, historically effective in warfare.",
+    "persianMeaning": "گرز",
+    "examples": [
+      "The knight brandished his mace as he charged into battle.",
+      "Maces were often used by medieval soldiers to break through armor.",
+      "During the demonstration, the instructor showcased the proper techniques for wielding a mace."
+    ],
+    "root": "The term 'mace' originates from the Middle English 'mac', which was derived from the Old French 'masse', and further traced back to the Latin 'mānsuētīnus', meaning 'hammer' or 'club'.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/meɪs/",
+      "uk": "/meɪs/"
+    }
+  },
+  {
+    "word": "mace spice",
+    "pos": "noun",
+    "englishDefinition": "A spice made from the dried outer covering (aril) of the nutmeg seed, used in cooking for its warm, aromatic flavor.",
+    "persianMeaning": "ادویه مِیْس",
+    "examples": [
+      "I added a pinch of mace spice to the apple pie for extra flavor.",
+      "Mace spice is often used in baking and could enhance the taste of your dishes.",
+      "In some cuisines, mace spice is preferred over nutmeg for its unique aroma."
+    ],
+    "root": "The word 'mace' comes from the Old French 'masse', meaning 'claw' or 'spike', which is derived from the Latin word 'mānsus', meaning 'handled' or 'to grasp', related to the shape of the spice. The word has evolved to describe both the spice and a type of ceremonial weapon.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/meɪs spaɪs/",
+      "uk": "/meɪs spaɪs/"
+    }
+  },
+  {
+    "word": "cuisine",
+    "pos": "noun",
+    "englishDefinition": "A style or method of cooking, especially as characteristic of a particular country, region, or establishment.",
+    "persianMeaning": "آشپزی",
+    "examples": [
+      "French cuisine is renowned for its high quality and exquisite flavors.",
+      "Many people enjoy trying different cuisines when traveling abroad.",
+      "The restaurant specializes in Italian cuisine, offering a variety of pasta dishes."
+    ],
+    "root": "From French 'cuisine', from Latin 'coquina' which means 'kitchen'.",
+    "wordFamily": [
+      "cuisinier",
+      "culinary"
+    ],
+    "pronunciation": {
+      "us": "/kwɪˈzin/",
+      "uk": "/kwɪˈziːn/"
+    }
+  },
+  {
+    "word": "prized",
+    "pos": "adjective",
+    "englishDefinition": "Valued highly; regarded as important or valuable.",
+    "persianMeaning": "ارزشمند",
+    "examples": [
+      "The prized possession of the family is an antique vase.",
+      "She won a prized award for her contributions to the community.",
+      "His prized collection of stamps is the talk of the town."
+    ],
+    "root": "The word 'prized' is derived from the verb 'prize,' which comes from Middle English 'prisen,' meaning to value or to appraise, itself from Anglo-Norman 'priser.'",
+    "wordFamily": [
+      "prize",
+      "prizing"
+    ],
+    "pronunciation": {
+      "us": "/praɪzd/",
+      "uk": "/praɪzd/"
+    }
+  },
+  {
+    "word": "preservative agent",
+    "pos": "noun",
+    "englishDefinition": "A substance used to preserve food or other perishable items by inhibiting the growth of bacteria, molds, and yeasts.",
+    "persianMeaning": "عامل نگهدارنده",
+    "examples": [
+      "Many packaged foods contain a preservative agent to increase their shelf life.",
+      "Some people prefer natural foods without any preservative agent added.",
+      "The use of a preservative agent can help maintain the quality of the product."
+    ],
+    "root": "The term 'preservative' originates from the Latin 'praeservativus', meaning 'to keep safe', combined with 'agent', coming from Latin 'agens', meaning 'doing' or 'acting'.",
+    "wordFamily": [
+      "preservative",
+      "preserve",
+      "preservation"
+    ],
+    "pronunciation": {
+      "us": "/prɪˈzɜːrvətɪv ˈeɪdʒənt/",
+      "uk": "/prɪˈzɜːvətɪv ˈeɪdʒənt/"
+    }
+  },
+  {
+    "word": "merchants",
+    "pos": "noun",
+    "englishDefinition": "Individuals or businesses engaged in the trade of goods or services, typically in large quantities.",
+    "persianMeaning": "تاجران",
+    "examples": [
+      "The merchants gathered at the market to sell their wares.",
+      "Online merchants have seen a rise in business during the pandemic.",
+      "Local merchants often rely on foot traffic for sales."
+    ],
+    "root": "From Middle English 'marchant', borrowed from Old French 'mercant', which comes from Latin 'mercantem', the accusative form of 'mercans' meaning 'trading' or 'doing business'.",
+    "wordFamily": [
+      "merchant",
+      "merchandise",
+      "merchandising"
+    ],
+    "pronunciation": {
+      "us": "/ˈmɜːr.tʃənt/",
+      "uk": "/ˈmɜː.tʃənt/"
+    }
+  },
+  {
+    "word": "commodity",
+    "pos": "noun",
+    "englishDefinition": "A raw material or primary agricultural product that can be bought and sold, such as gold, oil, or wheat.",
+    "persianMeaning": "کالا",
+    "examples": [
+      "The trading of commodities like oil and gold can greatly influence the economy.",
+      "Farmers are concerned about the prices of their commodities in the market.",
+      "Investors often trade commodities as a way to diversify their portfolios."
+    ],
+    "root": "From Latin commoditas, from commodus ('suitable, proper').",
+    "wordFamily": [
+      "commodities",
+      "commoditize",
+      "commoditization"
+    ],
+    "pronunciation": {
+      "us": "/kəˈmɑː.dɪ.ti/",
+      "uk": "/kəˈmɒ.dɪ.ti/"
+    }
+  },
+  {
+    "word": "expoiting",
+    "pos": "Unknown",
+    "englishDefinition": "Unrecognized term that may be a misspelling or a variation of 'exploiting.'",
+    "persianMeaning": "غیرقابل شناسایی",
+    "examples": [
+      "The term 'expoiting' is likely a typo for 'exploiting'.",
+      "Please clarify if you meant 'exploiting' instead of 'expoiting'.",
+      "In the context of software, expoiting may refer to an error in terminology."
+    ],
+    "root": "Unrecognized; possibly a typographical error.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˌɛkˈsplɔɪtɪŋ/",
+      "uk": "/ɪkˈsplɔɪtɪŋ/"
+    }
+  },
+  {
+    "word": "exploit",
+    "pos": "verb",
+    "englishDefinition": "To make full use of and derive benefit from a resource, often in a way that is considered unfair or unethical.",
+    "persianMeaning": "استفاده کردن از",
+    "examples": [
+      "The company plans to exploit the natural resources of the region.",
+      "He took advantage of his skills to exploit the market for homemade crafts.",
+      "They exploited the opportunity to expand their business during the economic boom."
+    ],
+    "root": "From Middle English 'exploiten', from Latin 'exploitare' meaning 'to unfold' or 'to accomplish', from 'exploitus' meaning 'unfolded, accomplished'.",
+    "wordFamily": [
+      "exploitation",
+      "exploitable",
+      "exploiter"
+    ],
+    "pronunciation": {
+      "us": "/ɪkˈsplɔɪt/",
+      "uk": "/ɪkˈsplɔɪt/"
+    }
+  },
+  {
+    "word": "exploiting",
+    "pos": "verb",
+    "englishDefinition": "Using or taking advantage of a situation or resource in an unethical or selfish way.",
+    "persianMeaning": "سوء استفاده کردن",
+    "examples": [
+      "The company is exploiting cheap labor to maximize profits.",
+      "They are exploiting the unique features of the product to attract more customers.",
+      "He was accused of exploiting his position to gain favors."
+    ],
+    "root": "The term 'exploit' originates from the Latin 'exploytare' meaning 'to unfold, exploit, or use' and is derived from 'ex-' meaning 'out' and 'plere' meaning 'to fill'. The verb form 'exploiting' derives from the gerund form of 'exploit'.",
+    "wordFamily": [
+      "exploit",
+      "exploitation",
+      "exploitable",
+      "exploiter"
+    ],
+    "pronunciation": {
+      "us": "/ɪkˈsplɔɪtɪŋ/",
+      "uk": "/ɪkˈsplɔɪtɪŋ/"
+    }
+  },
+  {
+    "word": "subcontract",
+    "pos": "verb",
+    "englishDefinition": "To assign or transfer part of a contract to another party, typically to carry out some of the work specified in the original contract.",
+    "persianMeaning": "زیردست گرفتن قرارداد",
+    "examples": [
+      "The main contractor decided to subcontract the plumbing work to a specialized company.",
+      "Due to a tight deadline, they had to subcontract several tasks to ensure timely completion.",
+      "The firm often subcontracts complex projects to access specialized skills."
+    ],
+    "root": "Derived from 'sub-' meaning 'under' and 'contract', from Latin 'contractus', meaning 'to draw together'.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈsʌb.kən.trækt/",
+      "uk": "/ˈsʌb.kən.trækt/"
+    }
+  },
+  {
+    "word": "spice distribution",
+    "pos": "noun phrase",
+    "englishDefinition": "The method or process of spreading or supplying various spices, often in terms of trading or logistics.",
+    "persianMeaning": "توزیع ادویه",
+    "examples": [
+      "The spice distribution network has expanded significantly over the past decade.",
+      "Efficient spice distribution is crucial for maintaining the freshness and quality of the products.",
+      "Companies are exploring new spice distribution techniques to reach more customers."
+    ],
+    "root": "The term 'spice' originates from the Latin word 'species', which means 'kind' or 'sort', while 'distribution' comes from the Latin 'distributio', meaning 'division' or 'apportionment'.",
+    "wordFamily": [
+      "spice",
+      "spicy",
+      "distribute",
+      "distribution"
+    ],
+    "pronunciation": {
+      "us": "/spaɪs ˌdɪstrɪˈbjuːʃən/",
+      "uk": "/spaɪs ˌdɪstrɪˈbjuːʃən/"
+    }
+  },
+  {
+    "word": "fleet",
+    "pos": "noun",
+    "englishDefinition": "A group of ships or vehicles operating together under the same ownership or command.",
+    "persianMeaning": "ناوگان",
+    "examples": [
+      "The navy dispatched its fleet to the troubled waters.",
+      "A fleet of trucks delivered supplies to the remote area.",
+      "The company's shipping fleet is expanding rapidly."
+    ],
+    "root": "Middle English, from Old Dutch \"vlete,\" meaning a ship or fleet. Related to the Proto-Germanic root *flōtaz.",
+    "wordFamily": [
+      "fleets",
+      "fleeted",
+      "fleeting"
+    ],
+    "pronunciation": {
+      "us": "/flit/",
+      "uk": "/fliːt/"
+    }
+  },
+  {
+    "word": "swiftly",
+    "pos": "adverb",
+    "englishDefinition": "In a quick or rapid manner; with speed.",
+    "persianMeaning": "به سرعت",
+    "examples": [
+      "The athlete ran swiftly to the finish line.",
+      "She swiftly completed her homework before dinner.",
+      "The swift changes in weather caught everyone off guard."
+    ],
+    "root": "The word 'swiftly' originates from the Old English 'swift', which meant 'quick' or 'prompt'. It is derived from Proto-Germanic *swifwaz, which also relates to the action of moving quickly.",
+    "wordFamily": [
+      "swift",
+      "swiftness"
+    ],
+    "pronunciation": {
+      "us": "/ˈswɪf.tli/",
+      "uk": "/ˈswɪft.li/"
+    }
+  },
+  {
+    "word": "soared",
+    "pos": "verb",
+    "englishDefinition": "To rise rapidly or to a great height; to fly or move high in the air.",
+    "persianMeaning": "بلند شدن",
+    "examples": [
+      "The eagle soared high above the mountains.",
+      "After the announcement, stock prices soared.",
+      "Her spirits soared when she heard the good news."
+    ],
+    "root": "From Middle English 'soren', derived from Old English 'sēar', believed to be of Germanic origin.",
+    "wordFamily": [
+      "soar",
+      "soaring",
+      "soarer"
+    ],
+    "pronunciation": {
+      "us": "/sɔːrd/",
+      "uk": "/sɔːd/"
+    }
+  },
+  {
+    "word": "plague",
+    "pos": "noun",
+    "englishDefinition": "A contagious bacterial disease characterized by fever and delirium, typically occurring in epidemics; can also refer to any serious or vexatious evil or affliction.",
+    "persianMeaning": "طاعون",
+    "examples": [
+      "The plague devastated the population in the 14th century.",
+      "Efforts to contain the outbreak of the plague were ineffective.",
+      "Some consider stress to be a modern plague affecting society."
+    ],
+    "root": "The term derives from the Latin word 'plaga', meaning 'a blow' or 'a wound', influenced by the Old French term 'plague' which refers to a disease.",
+    "wordFamily": [
+      "plagued",
+      "plaguing",
+      "plaguey"
+    ],
+    "pronunciation": {
+      "us": "/pleɪɡ/",
+      "uk": "/pleɪɡ/"
+    }
+  },
+  {
+    "word": "desperate",
+    "pos": "adjective",
+    "englishDefinition": "Feeling, showing, or involving a hopeless sense that a situation is so bad that it is impossible to deal with; having an urgent need or desire for something.",
+    "persianMeaning": "ناامید",
+    "examples": [
+      "She was desperate to find a job after being unemployed for so long.",
+      "In a desperate attempt to save the company, he made drastic cuts to the budget.",
+      "The team made a desperate move in the last minutes of the game, hoping to score."
+    ],
+    "root": "From Middle English 'desperate', borrowed from Latin 'desperatus', the past participle of 'desperare', meaning 'to despair', from 'de-' (down, away) + 'sperare' (to hope).",
+    "wordFamily": [
+      "desperation",
+      "desperately",
+      "despair"
+    ],
+    "pronunciation": {
+      "us": "/ˈdɛspərɪt/",
+      "uk": "/ˈdɛspərət/"
+    }
+  },
+  {
+    "word": "spare expense",
+    "pos": "noun phrase",
+    "englishDefinition": "An expense that is considered unnecessary or excessive; spending that can be reduced or eliminated.",
+    "persianMeaning": "هزینه اضافی",
+    "examples": [
+      "We should try to spare expense on our vacation by finding cheaper accommodation.",
+      "The company decided to spare expenses by cutting down on travel costs.",
+      "She regularly reviews her budget to identify any spare expenses."
+    ],
+    "root": "The term 'spare' comes from Old English 'spearca', meaning to save or refrain from using, and 'expense' derives from the Latin 'expensum', meaning outlay or expenditure.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/spɛr ɪkˈspɛns/",
+      "uk": "/spɛː ɪkˈspɛns/"
+    }
+  },
+  {
+    "word": "spare",
+    "pos": "verb",
+    "englishDefinition": "To refrain from harming, punishing, or killing; to allow to remain unharmed or undisturbed.",
+    "persianMeaning": "محافظت کردن",
+    "examples": [
+      "She spared the child from punishment because he was very young.",
+      "The doctor spared no effort in trying to save the patient.",
+      "He spared us the trouble of waiting by arriving early."
+    ],
+    "root": "From Old English 'sperran', meaning 'to save, preserve', with cognates in German 'sparen' and Dutch 'sparen'.",
+    "wordFamily": [
+      "spared",
+      "sparing",
+      "sparely"
+    ],
+    "pronunciation": {
+      "us": "/spɛr/",
+      "uk": "/spɛə/}}}   }}</vocabulary_entry>  ## rypton-1  ##  vjson-1-2  gr-lexicographic  Priority: 2  Abandoned: 1  Merging: 3  Use-format: 4  Skip Token: 1  Output Format: 3  Insert Template: 5  Answer Format: 4   ##  -58  wizardry  0:19   ##  zarch  0:27  ##  -58  -3 широкий  0:37    0:39   ##  buzzard  0:45    1:09  ##  disestablishementarianism  1:16  ##  -1  run away  1:24  ##  spellbinding  1:41  ##  nphast  1:51  ##  dimly  2:03  ##  unostentatious  2:09   ##  -1  rushing  2:17  ##  unassuming  2:30  ##  unrepresentative  2:39  ##  huskey  2:56  ##  lusty  3:09  ##  -1  underemployed  3:19  ##  stagnant  3:25  ##  connectedness  3:33  ##  impersonate  3:42  ##  voucher  3:53  ##  control a liv 4:05  ##  energetic  4:19   ##  unraveled 4:27  ##  -1  errand 4:34  ##  unsion 4:40  ##  spills 4:46  ##  deescend 4:55  ##  alphabetization 5:02  ##  explodes 5:07  ##  unclaim 5:12  ##  uncared 5:19  ##  -1  emphasized 5:26  ##  microanatomy 5:39  ##  -1  drive 5:49  ##  broadening 5:54  ##  accomplishment 6:00  ##  pomological 6:07  ##  displeased 6:14  ##  -1  amicable 6:20  ##  disentangle 6:25  ##  weighable 6:31  ##  mothership 6:39  ##  rush 6:46  ##  reinstate 6:53  ##  captivating 7:02  ##  enigmatic 7:08  ##  -1  mysterious 7:19  ##  invigorating 7:25  ##  fairer 7:34  ##  displaced 7:41  ##  clout 7:47  ##  -1  flabbergasted 7:53  ##  rhetorical 7:59  ##  interchangeable 8:06  ##  differentiate 8:16  ##  wades 8:21  ##  inquire **1 8:29  **  narrow-focusing 8:36--** 8:47  ##  skewness 8:53  ##  -1  recover 9:07  ##  alteration 9:12  ##  complicated 9:19  ##  -1  amorphous 9:27  ##  semblance 9:36  ##  progression 9:42  ##  -1  aspect 9:49  ##  cluttered 9:55 **2-1  dame 10:05  ##  nonverbal 10:13  ##  green 10:18  ##  -1  uniter 10:27  ##  bobsledding 10:35  ##  polarizing 10:43  ##  -1  glorify 10:51  ##  volunteers 10:58  ##  -1  underrepresented 11:06  ##  -1  decimated 11:39  ##  compounded 11:56  ##  -1  overwhelmed 12:05  ##  invoking 12:12  ##  embodied 12:20  ##  -1  unattainable 12:25  ##  -1  kindling 12:34  ##  -1  stand - טובה 12:43-1  motivator 12:50  ##  undefined 12:56  ##  amused 13:04  ##  unraveled 13:11  ##  ovum 13:18  ##  numb 13:25  ##  heads 13:31  ##  bouncing **2** -1 **3** 13:38  ##  benches 13:41  ##  chimney 13:47  ##  subsection 13:54  ##  deficient 14:00  ##  -1  compliment 14:05  ##  appellate 14:10  ##  -1  contemplative 14:16  ##  formative 14:23  ##  iconic 14:31  ##  -1  unbearably 14:37  ##  -1  exorbitant 14:44  ##  -1  satisfaction 14:52  ##  -1  improving 15:00  ##  ambling 15:07  ##  hopeful 15:13  ##  -1  illusory 15:20  ##  regimented 15:26 ## -1  flagging 15:33  ##  -1  trembling 15:39  ##  -1  chamfer 15:45  ##  daring 15:51  ##  -1  retrieval 15:56  ##  -1  settlement 16:03  ##  -1  canal 16:11  ##  dimension 16:20  ##  emanating 16:27  ##  abrasive 16:33  ##  -1  discerning 16:39  ##  deferential 16:44  ##  -1  pathetically 16:51  ##  -1  rehabilitation 16:57 ## -1  clumsy 17:04  ##  agricultural 17:11  ##  seethes 17:19  ##  unexplainable 17:25  ##  -1  wholesomely 17:31  ##  tarry 17:37  ##  -1  personalization 17:44  ##  informative 17:51  ##  -1  excused 17:57  ##  -1  persisting 18:04  ##  -1  solicited 18:10  ##  -1  the ardent 18:16  ##  -1  mollycoddled 18:24  ##  -1  phenomenally 18:31  ##  -1  bhistron 18:37 {"
+    }
+  },
+  {
+    "word": "neutral",
+    "pos": "adjective",
+    "englishDefinition": "Not taking part or giving assistance in a dispute or situation; impartial or unbiased.",
+    "persianMeaning": "بی‌طرف",
+    "examples": [
+      "In a heated debate, it is important to remain neutral and consider both sides.",
+      "The country declared itself neutral during the conflict and refused to offer support to either party.",
+      "She took a neutral stance in the argument, preferring not to side with anyone."
+    ],
+    "root": "Derived from the Latin word 'neutralis', which means 'of neither', from 'neutrum', meaning 'neither' (ne - not + uter - either).",
+    "wordFamily": [
+      "neutrality",
+      "neutralize",
+      "neutrally"
+    ],
+    "pronunciation": {
+      "us": "/ˈnuːtrəl/",
+      "uk": "/ˈnjuːtrəl/"
+    }
+  },
+  {
+    "word": "presence",
+    "pos": "noun",
+    "englishDefinition": "The state or fact of being present in a place or thing.",
+    "persianMeaning": "حضور",
+    "examples": [
+      "Her presence at the meeting was greatly appreciated.",
+      "The ghostly presence in the old house gave everyone chills.",
+      "He felt her presence beside him, even though she was not visible."
+    ],
+    "root": "From Latin prae-sentia, from prae- 'before' + esentia 'essence'.",
+    "wordFamily": [
+      "present",
+      "presentation",
+      "presenting"
+    ],
+    "pronunciation": {
+      "us": "/ˈprɛzəns/",
+      "uk": "/ˈprɛz(ə)ns/"
+    }
+  },
+  {
+    "word": "invaders",
+    "pos": "noun",
+    "englishDefinition": "Individuals or groups that enter a place or situation, often with the intent to conquer, disrupt, or harm.",
+    "persianMeaning": "دستبردکنندگان",
+    "examples": [
+      "The invaders quickly took control of the town, leaving devastation in their wake.",
+      "Throughout history, many cultures have faced invaders seeking to expand their territory.",
+      "The documentary focused on the impact of the invaders on local populations."
+    ],
+    "root": "Derived from the Latin word 'invadere', which means 'to attack or besiege'. It has passed through Old French before entering English.",
+    "wordFamily": [
+      "invade",
+      "invading",
+      "invasion",
+      "invader"
+    ],
+    "pronunciation": {
+      "us": "/ɪnˈveɪdərz/",
+      "uk": "/ɪnˈveɪdəz/"
+    }
+  },
+  {
+    "word": "plantation",
+    "pos": "noun",
+    "englishDefinition": "A large estate or farm where crops are cultivated, often involving the labor of workers or slaves, particularly in historical contexts.",
+    "persianMeaning": "مزرعه بزرگ",
+    "examples": [
+      "The plantation produces sugarcane and coffee beans.",
+      "The old plantation house was a reminder of a different time in history.",
+      "Plantations in the South were often run by wealthy landowners."
+    ],
+    "root": "Originates from the Latin word 'plantatio', meaning 'a planting'.",
+    "wordFamily": [
+      "plant",
+      "plantationist",
+      "planting"
+    ],
+    "pronunciation": {
+      "us": "/plænˈteɪʃən/",
+      "uk": "/plænˈteɪʃən/"
+    }
+  },
+  {
+    "word": "seedling",
+    "pos": "noun",
+    "englishDefinition": "A young plant, especially one that has grown from a seed and is still in its early stages of development.",
+    "persianMeaning": "نهال",
+    "examples": [
+      "The gardener carefully planted the seedling in the prepared soil.",
+      "After weeks of nurturing, the seedling started to show new leaves.",
+      "They decided to transplant the seedling into a larger pot to encourage growth."
+    ],
+    "root": "The word 'seedling' originates from the Middle English 'seedlin', derived from 'seed'. Its roots can be traced back to Old English 'sǣd', meaning 'seed'.",
+    "wordFamily": [
+      "seed",
+      "seeding"
+    ],
+    "pronunciation": {
+      "us": "/ˈsiːd.lɪŋ/",
+      "uk": "/ˈsiːd.lɪŋ/"
+    }
+  },
+  {
+    "word": "obstacle",
+    "pos": "noun",
+    "englishDefinition": "A thing that blocks one's way or prevents or hinders progress.",
+    "persianMeaning": "مانع",
+    "examples": [
+      "The main obstacle to success is often our own fears.",
+      "We need to find a way to overcome the obstacles in our path.",
+      "Time was an obstacle to completing the project on schedule."
+    ],
+    "root": "From late Middle English, from Old French 'obstacle', from Latin 'obstaculum', from 'obstāre' meaning 'to stand in the way'.",
+    "wordFamily": [
+      "obstruct",
+      "obstructive",
+      "obstruction"
+    ],
+    "pronunciation": {
+      "us": "/ˈɑːbstəkl/",
+      "uk": "/ˈɒbstəkl/"
+    }
+  },
+  {
+    "word": "sliver",
+    "pos": "noun",
+    "englishDefinition": "A small, thin, narrow piece of something cut or broken off from a larger piece.",
+    "persianMeaning": "برآمدگی",
+    "examples": [
+      "She took a sliver of chocolate from the cake.",
+      "He found a sliver of glass in the carpet.",
+      "A sliver of hope remained, even in difficult times."
+    ],
+    "root": "The word 'sliver' comes from Middle English 'sliveren', meaning 'to split, tear'. It is of uncertain origin, possibly from Old Norse 'slyfa', meaning 'to sliver' or 'split'.",
+    "wordFamily": [
+      "sliver",
+      "slivered",
+      "slivering"
+    ],
+    "pronunciation": {
+      "us": "/ˈslɪvər/",
+      "uk": "/ˈslɪvə/."
+    }
+  },
+  {
+    "word": "compromise",
+    "pos": "noun",
+    "englishDefinition": "An agreement or settlement of a dispute that is reached by each side making concessions.",
+    "persianMeaning": "توافق",
+    "examples": [
+      "After hours of negotiation, they finally reached a compromise that satisfied both parties.",
+      "In a successful relationship, each partner should be willing to make compromises.",
+      "The compromise allowed both teams to move forward with their projects."
+    ],
+    "root": "From Middle English 'compromissen', from Old French 'compromis', from Latin 'compromissum', meaning 'a mutual promise'.",
+    "wordFamily": [
+      "compromise",
+      "compromised",
+      "compromising"
+    ],
+    "pronunciation": {
+      "us": "/ˈkɒmprəˌmaɪz/",
+      "uk": "/ˈkɒmprəmaɪz/"
+    }
+  },
+  {
+    "word": "settlement",
+    "pos": "noun",
+    "englishDefinition": "An official agreement intended to resolve a dispute or conflict, often legal or financial in nature; also refers to a community or group of dwellings established in a new area.",
+    "persianMeaning": "تسویه، توافق، اسکان",
+    "examples": [
+      "The company reached a settlement with the plaintiffs to avoid a lengthy court battle.",
+      "The treaty included a settlement of outstanding issues between the two countries.",
+      "The settlers established a new settlement in the valley."
+    ],
+    "root": "Derived from Old French 'setlement', from 'setler', which comes from Latin 'sedere' meaning 'to sit'.",
+    "wordFamily": [
+      "settle",
+      "settled",
+      "settles"
+    ],
+    "pronunciation": {
+      "us": "/ˈsɛt(ə)lmənt/",
+      "uk": "/ˈsɛt(ə)lmənt/"
+    }
+  },
+  {
+    "word": "monopoly",
+    "pos": "noun",
+    "englishDefinition": "The exclusive possession or control of the supply or trade in a commodity or service.",
+    "persianMeaning": "انحصار",
+    "examples": [
+      "The company's monopoly over the software market allows it to set prices at will.",
+      "Government regulations are often required to prevent monopolies and promote competition.",
+      "When one company has a monopoly, consumers have fewer choices."
+    ],
+    "root": "From Middle French 'monopole', from Latin 'monopolicus', from Greek 'monopōlios' meaning 'selling alone'.",
+    "wordFamily": [
+      "monopolist",
+      "monopolistic",
+      "monopolize"
+    ],
+    "pronunciation": {
+      "us": "/məˈnɑː.pəl.i/",
+      "uk": "/məˈnɒp.əl.i/"
+    }
+  },
+  {
+    "word": "smuggled",
+    "pos": "verb",
+    "englishDefinition": "Past tense of smuggle; to move goods illegally into or out of a country, often to avoid taxation or legal restrictions.",
+    "persianMeaning": "قاچاق کرده",
+    "examples": [
+      "They smuggled the rare artifacts out of the country.",
+      "The authorities discovered that he had smuggled a shipment of luxury goods.",
+      "Smuggled drugs are a major issue for law enforcement."
+    ],
+    "root": "From the early 16th century, from the verb smuggle, of unknown origin, possibly derived from the Low German verb \"smugglen\".",
+    "wordFamily": [
+      "smuggle",
+      "smuggling"
+    ],
+    "pronunciation": {
+      "us": "/ˈsmʌɡəld/",
+      "uk": "/ˈsmʌɡəld/"
+    }
+  },
+  {
+    "word": "volcanic eruption",
+    "pos": "noun",
+    "englishDefinition": "A volcanic eruption is a geological event that occurs when there is a release of gas, ash, and molten rock from a volcano, typically resulting in an explosion or emission of lava.",
+    "persianMeaning": "فوران آتش‌فشان",
+    "examples": [
+      "The last volcanic eruption in this region caused significant damage to the surrounding communities.",
+      "Scientists are closely monitoring the volcano for signs of an impending eruption.",
+      "Visitors were warned to stay away from areas near the volcanic eruption site."
+    ],
+    "root": "The term 'volcanic' derives from 'Volcanus', the Roman god of fire, while 'eruption' comes from the Latin 'erupere', meaning 'to break out'.",
+    "wordFamily": [
+      "volcano",
+      "erupt"
+    ],
+    "pronunciation": {
+      "us": "/vɑlˈkænɪk ɪˈrʌpʃən/",
+      "uk": "/vɒlˈkænɪk ɪˈrʌpʃən/"
+    }
+  },
+  {
+    "word": "eruption",
+    "pos": "noun",
+    "englishDefinition": "The act or instance of erupting; the sudden and often violent release of something, such as molten rock, gas, or ash, from beneath the earth's crust.",
+    "persianMeaning": "فوران",
+    "examples": [
+      "The eruption of the volcano caused widespread panic among the residents.",
+      "Scientists monitored the signs of tectonic activity leading up to the eruption.",
+      "After the eruption, the landscape was forever changed. "
+    ],
+    "root": "From Latin 'eruptio', from 'erumpere' meaning 'to break out'.",
+    "wordFamily": [
+      "erupt",
+      "eruptive",
+      "eruptively"
+    ],
+    "pronunciation": {
+      "us": "/ɪˈrʌpʃən/",
+      "uk": "/ɪˈrʌpʃən/"
+    }
+  },
+  {
+    "word": "groves",
+    "pos": "noun",
+    "englishDefinition": "A group of trees, generally smaller than a forest, often planted for cultivation or ornament.",
+    "persianMeaning": "باغچه‌ها",
+    "examples": [
+      "The children played in the apple groves, enjoying the sweet, ripe fruit.",
+      "We took a stroll through the ancient groves, admiring the towering oaks and tranquil surroundings.",
+      "The farm has several groves of olive trees that are harvested each year."
+    ],
+    "root": "The word 'grove' comes from the Old English 'graf' meaning 'a small forest or copse'. It is related to the Old Norse 'grof' and has connections to other Germanic languages.",
+    "wordFamily": [
+      "grove",
+      "grovey"
+    ],
+    "pronunciation": {
+      "us": "/ɡroʊvz/",
+      "uk": "/ɡrəʊvz/"
+    }
+  },
+  {
+    "word": "seize",
+    "pos": "verb",
+    "englishDefinition": "To take hold of suddenly and forcibly.",
+    "persianMeaning": "گرفتن",
+    "examples": [
+      "The police decided to seize the stolen goods.",
+      "He managed to seize the opportunity to expand his business.",
+      "I will seize this moment to express my gratitude."
+    ],
+    "root": "From Middle English 'seisen', from Old French 'seisir', derived from Latin 'sīcere', meaning 'to take'.",
+    "wordFamily": [
+      "seized",
+      "seizing",
+      "seizable"
+    ],
+    "pronunciation": {
+      "us": "/siːz/",
+      "uk": "/siːz/"
+    }
+  },
+  {
+    "word": "contribution",
+    "pos": "noun",
+    "englishDefinition": "Something that is given to help a person, group, cause, or organization; the act of contributing or donating.",
+    "persianMeaning": "مشارکت",
+    "examples": [
+      "Her contribution to the project was invaluable.",
+      "They made a significant contribution to the charity.",
+      "I appreciate your contribution to the discussion."
+    ],
+    "root": "Middle English 'contributioun', from Latin 'contributio', from 'contribuere' meaning 'to bring together'.",
+    "wordFamily": [
+      "contribute",
+      "contributory"
+    ],
+    "pronunciation": {
+      "us": "/ˌkɒn.trɪˈbjuː.ʃən/",
+      "uk": "/ˌkɒn.trɪˈbjuː.ʃən/"
+    }
+  },
+  {
+    "word": "trialling",
+    "pos": "verb",
+    "englishDefinition": "The act of testing something, often in a practical scenario, to assess its performance, functionality, or suitability.",
+    "persianMeaning": "آزمایش کردن",
+    "examples": [
+      "The company is trialling a new software to improve efficiency.",
+      "She is trialling a unique approach in her research.",
+      "They are trialling different methods of transportation for the project."
+    ],
+    "root": "The term 'trial' comes from the Old French 'triala', which is derived from 'trier' meaning 'to sift, to sort'.",
+    "wordFamily": [
+      "trial",
+      "trialed",
+      "trialling",
+      "trials"
+    ],
+    "pronunciation": {
+      "us": "/ˈtraɪ.əl.ɪŋ/",
+      "uk": "/ˈtraɪ.əl.ɪŋ/"
+    }
+  },
+  {
+    "word": "collision",
+    "pos": "noun",
+    "englishDefinition": "An instance of one object or person striking violently against another.",
+    "persianMeaning": "برخورد",
+    "examples": [
+      "The collision between the two cars caused a traffic jam.",
+      "Astronomers study the possible collision of asteroids with Earth.",
+      "The evidence suggests a collision of ideas led to a breakthrough."
+    ],
+    "root": "The word 'collision' comes from the Latin 'collisionem', which means 'a striking together'. This is derived from 'collidere', where 'com-' means 'together' and 'ludere' means 'to strike'.",
+    "wordFamily": [
+      "collide",
+      "collisional"
+    ],
+    "pronunciation": {
+      "us": "/kəˈlɪʒ.ən/",
+      "uk": "/kəˈlɪʒ.ən/"
+    }
+  },
+  {
+    "word": "contributory",
+    "pos": "adjective",
+    "englishDefinition": "Serving to contribute; helping to cause or bring about a certain result.",
+    "persianMeaning": "کمک کننده",
+    "examples": [
+      "The contributory factors to the decision were thoroughly analyzed.",
+      "Her contributory role in the project was invaluable to its success.",
+      "They received contributory support from various local businesses."
+    ],
+    "root": "Derived from the late Middle English 'contributori', from Latin 'contributorius', from 'contribuere', which means 'to bring together'.",
+    "wordFamily": [
+      "contribute",
+      "contribution",
+      "contributor"
+    ],
+    "pronunciation": {
+      "us": "/kənˈtrɪb.jʊ.tɔːr.i/",
+      "uk": "/kənˈtrɪb.jʊ.tər.i/"
+    }
+  },
+  {
+    "word": "autonomy",
+    "pos": "noun",
+    "englishDefinition": "The right or condition of self-government, especially in a particular sphere; independence in one's thoughts or actions.",
+    "persianMeaning": "خودمختاری",
+    "examples": [
+      "The region declared its autonomy from the central government.",
+      "Each individual has the autonomy to make their own choices.",
+      "Negotiations are ongoing to establish greater autonomy for the local communities."
+    ],
+    "root": "From the Greek 'autonomía', from 'autónomos' meaning 'having one's own laws', from 'auto-' meaning 'self' and 'nomos' meaning 'law'.",
+    "wordFamily": [
+      "autonomous",
+      "autonomously"
+    ],
+    "pronunciation": {
+      "us": "/ɔːˈtɑː.nə.mi/",
+      "uk": "/ɔːˈtɒn.ə.mi/"
+    }
+  },
+  {
+    "word": "initiatives",
+    "pos": "noun",
+    "englishDefinition": "An important step or action taken to achieve a goal or address a problem; often refers to new plans or proposals introduced to improve a situation.",
+    "persianMeaning": "ابتکارها",
+    "examples": [
+      "The government launched several initiatives to tackle climate change.",
+      "Community initiatives can significantly improve local resources and services.",
+      "She proposed new initiatives to enhance employee engagement in the company."
+    ],
+    "root": "From Latin \"initium\", meaning \"beginning, entrance\". The modern use of the term derives from the idea of taking action or starting something new.",
+    "wordFamily": [
+      "initiative",
+      "initiator",
+      "initiatory"
+    ],
+    "pronunciation": {
+      "us": "/ɪˈnɪʃ.ə.tɪv/",
+      "uk": "/ɪˈnɪʃ.ə.tɪv/"
+    }
+  },
+  {
+    "word": "viable",
+    "pos": "adjective",
+    "englishDefinition": "Capable of working successfully; feasible.",
+    "persianMeaning": "قابل اجرا",
+    "examples": [
+      "The business model proved to be viable after the initial testing phase.",
+      "Scientists are looking for viable solutions to combat climate change.",
+      "After evaluating the project, the team concluded that it was not a viable option."
+    ],
+    "root": "From French 'viable', from Latin 'vita', meaning 'life'.",
+    "wordFamily": [
+      "viability",
+      "viably"
+    ],
+    "pronunciation": {
+      "us": "/ˈvaɪəbl/",
+      "uk": "/ˈvaɪə.bəl/"
+    }
+  },
+  {
+    "word": "feasible",
+    "pos": "adjective",
+    "englishDefinition": "Capable of being done, achieved, or put into effect; possible.",
+    "persianMeaning": "ممکن",
+    "examples": [
+      "The plan to build a new bridge is feasible given the current budget.",
+      "We need to find a feasible solution to the problem.",
+      "Is it feasible to finish the project by the deadline?"
+    ],
+    "root": "Derived from the Latin 'facere' meaning 'to make or do', via Old French 'faisable'.",
+    "wordFamily": [
+      "feasibility",
+      "feasibly"
+    ],
+    "pronunciation": {
+      "us": "/ˈfiː.zə.bəl/",
+      "uk": "/ˈfiː.zə.bəl/"
+    }
+  },
+  {
+    "word": "hurdles",
+    "pos": "noun",
+    "englishDefinition": "Obstacles or barriers that one must overcome, often used in the context of physical competitions in which athletes jump over them, or metaphorically for challenges in life.",
+    "persianMeaning": "مانع ها",
+    "examples": [
+      "The athletes trained hard to prepare for the hurdles in the upcoming race.",
+      "In life, we often face hurdles that test our determination and resilience.",
+      "She viewed every hurdle as an opportunity to grow and improve."
+    ],
+    "root": "From Middle English 'hurdle', derived from Old French 'hurdle' or 'hurd' meaning 'a fence or barrier', ultimately traces back to a Germanic source.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈhɜːrdlz/",
+      "uk": "/ˈhɜːdəlz/"
+    }
+  },
+  {
+    "word": "regulatory",
+    "pos": "adjective",
+    "englishDefinition": "Relating to or concerned with the process of regulating, controlling, or supervising; often pertaining to laws or rules established by authorities.",
+    "persianMeaning": "تنظیمی",
+    "examples": [
+      "The regulatory body issued new guidelines for the health industry.",
+      "Companies must comply with regulatory standards to ensure public safety.",
+      "The regulatory framework is essential for maintaining fair competition."
+    ],
+    "root": "Derived from the Latin word 'regulatus', which is the past participle of 'regulare', meaning 'to control' or 'to govern'.",
+    "wordFamily": [
+      "regulate",
+      "regulation",
+      "regulator"
+    ],
+    "pronunciation": {
+      "us": "/ˈrɛɡ.jəˌleɪ.tɔːr.i/",
+      "uk": "/ˈrɛɡ.jʊ.lə.təri/"
+    }
+  },
+  {
+    "word": "societal",
+    "pos": "adjective",
+    "englishDefinition": "Relating to society or social relations.",
+    "persianMeaning": "اجتماعی",
+    "examples": [
+      "The societal impact of technology cannot be ignored.",
+      "She focuses on societal issues such as poverty and education.",
+      "Understanding societal norms is crucial for effective communication."
+    ],
+    "root": "From Latin 'societas' meaning 'society', derived from 'socius' meaning 'companion' or 'ally'.",
+    "wordFamily": [
+      "society",
+      "social",
+      "sociology"
+    ],
+    "pronunciation": {
+      "us": "/səˈsaɪ.ɪ.t̬əl/",
+      "uk": "/səˈsaɪ.ə.təl/"
+    }
+  },
+  {
+    "word": "conquered",
+    "pos": "verb",
+    "englishDefinition": "To have gained possession or control of (something) through force, especially in a military context.",
+    "persianMeaning": "فتح کرده",
+    "examples": [
+      "The army conquered the territory after a long battle.",
+      "She conquered her fears and gave the presentation confidently.",
+      "They had conquered many lands during their reign."
+    ],
+    "root": "From Latin 'conquere', meaning 'to gain or win', from 'con-' (together) and 'quaerere' (to seek).",
+    "wordFamily": [
+      "conquer",
+      "conquest",
+      "conquering"
+    ],
+    "pronunciation": {
+      "us": "/ˈkɒŋ.kɚd/",
+      "uk": "/ˈkɒŋ.kəd/"
+    }
+  },
+  {
+    "word": "telepresence",
+    "pos": "noun",
+    "englishDefinition": "A technology that allows a person to feel as if they are present at a location other than their true location, typically through the use of virtual reality or video conferencing.",
+    "persianMeaning": "حضور از راه دور",
+    "examples": [
+      "The company uses telepresence to connect teams across the globe.",
+      "With telepresence, you can attend meetings without being physically present.",
+      "She felt the telepresence technology made remote work more engaging."
+    ],
+    "root": "The term 'telepresence' is a combination of 'tele-', meaning 'distant' (from Greek 'tēle'), and 'presence', from Latin 'praesentia' meaning 'being present'.",
+    "wordFamily": [],
+    "pronunciation": {
+      "us": "/ˈtɛl.əˌprɛz.əns/",
+      "uk": "/ˈtɛl.əˌprɛz.əns/"
+    }
+  },
+  {
+    "word": "concrete",
+    "pos": "noun",
+    "englishDefinition": "A building material made from a mixture of cement, water, and aggregates such as sand and gravel, which hardens to form a strong and durable structure.",
+    "persianMeaning": "بتن",
+    "examples": [
+      "The construction workers poured concrete to create the foundation of the new building.",
+      "Concrete is widely used in the construction industry due to its strength and durability.",
+      "The artist used concrete to sculpt modern structures in the park."
+    ],
+    "root": "The word 'concrete' comes from the Latin 'concretus' meaning 'hardened, compact', from 'con-' (together) and 'crescere' (to grow).",
+    "wordFamily": [
+      "concretely",
+      "concreteness",
+      "concretization"
+    ],
+    "pronunciation": {
+      "us": "/kənˈkriːt/",
+      "uk": "/ˈkɒŋkriːt/"
+    }
+  },
+  {
+    "word": "concrete predictions",
+    "pos": "noun phrase",
+    "englishDefinition": "Specific and clear forecasts or expectations regarding future events based on tangible evidence or data.",
+    "persianMeaning": "پیش‌بینی‌های عینی",
+    "examples": [
+      "The scientists made concrete predictions about the effects of climate change based on their research.",
+      "His concrete predictions about the stock market trends impressed the investors.",
+      "She provided concrete predictions for the project's outcome after analyzing all available data."
+    ],
+    "root": "The term 'concrete' originates from the Latin 'concretus', meaning 'to grow together', while 'predictions' comes from the Latin 'praedictio', meaning 'foretelling'. The combination indicates a forecast that is grounded in reality.",
+    "wordFamily": [
+      "concrete",
+      "predict",
+      "prediction",
+      "predicted",
+      "predictable"
+    ],
+    "pronunciation": {
+      "us": "/kənˈkriːt prɪˈdɪkʃənz/",
+      "uk": "/ˈkɒŋkriːt prɪˈdɪkʃənz/"
+    }
+  },
+  {
+    "word": "vital",
+    "pos": "adjective",
+    "englishDefinition": "Absolutely necessary or important; essential.",
+    "persianMeaning": "حیاتی",
+    "examples": [
+      "It is vital to have a good night’s sleep before an important exam.",
+      "Water is vital for the survival of all living organisms.",
+      "The team's victory was vital for their chances of entering the playoffs."
+    ],
+    "root": "From Latin 'vitalis', from 'vita' meaning 'life'.",
+    "wordFamily": [
+      "vitality",
+      "vitalism",
+      "vitalize"
+    ],
+    "pronunciation": {
+      "us": "/ˈvaɪ.təl/",
+      "uk": "/ˈvaɪ.təl/"
+    }
   }
 ]
